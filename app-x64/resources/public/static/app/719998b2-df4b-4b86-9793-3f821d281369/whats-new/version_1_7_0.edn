@@ -1,0 +1,3364 @@
+{#uuid "4b527707-b930-41ae-bbe7-229300ccaf39"
+ {:block-type :text,
+  :text-type :headline-big,
+  :coords
+  {:y-start 0.800825828131207,
+   :x-start 0.05211799778147532,
+   :x-end 0.9479071482004479,
+   :y-end 0.9077601612111232},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Delight with data</p>"},
+ #uuid "95611bf2-b374-4b43-9b64-40d5c90156cb"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.37191831697311134,
+   :x-end 0.7719183169731114,
+   :y-start 0,
+   :y-end 0.39703703703703697},
+  :original-aspect-ratio? true,
+  :blur 0,
+  :image-aspect-ratio 1.791044776119403,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/6f2f6728-87c7-4e2d-9696-f141360288df?pitch-bytes=696148&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603061115855},
+ #uuid "8a0248e7-b1b3-4eaa-bf71-3016efb02014"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "bb4e9200-95ae-4e60-81e9-fb65bb015ea7"
+   #uuid "7b7cad0e-f9c9-42bd-9825-8aff3222d097"
+   #uuid "01260ca3-f267-4042-a46a-e4f3786c53d8"
+   #uuid "5e3938db-2b59-45de-9127-10e19ff86fd0"
+   #uuid "1145ddf7-e76c-448b-b35e-bd35a9b39059"
+   #uuid "9ae2a9a2-9bf5-41db-b63d-1f223a22ce9e"
+   #uuid "c59ee0d8-bb29-47b3-a4d1-e674c8a1744c"
+   #uuid "8fb8aa7a-cf95-4964-abd4-df4410d0f091"
+   #uuid "7480fec2-2967-441c-bd9f-478e05e7521e"
+   #uuid "e5f59245-99e8-4d8b-971d-af7a39e89b3f"
+   #uuid "25aae660-fa4d-4b6d-ae1c-78dd2ad3b662"
+   #uuid "361f4dce-ec75-448f-8b16-192d1c33bac6"],
+  :canvas-type :absolute,
+  :background-color {:r 220, :g 236, :b 255, :a 1}},
+ #uuid "1e34deee-231e-460e-b324-09fe94c358d0"
+ {:font-style "normal",
+  :entity-type :block,
+  :text-align :center,
+  :font-size 3,
+  :font-weight 700,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.4170796729091925,
+   :x-start 0.21952379545817977,
+   :x-end 0.2807708523510272,
+   :y-end 0.582827888562429},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :text-align-vertical :center,
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>⬆</p>",
+  :font-family "Lato"},
+ #uuid "f4ea2079-26d9-4ffe-b93c-e544eacfacf8"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "e5bb77b8-a49d-4585-8460-a200ed88585a"
+   #uuid "f868d016-8b25-49f6-9736-25bff53f0d0b"
+   #uuid "77f4afdd-703b-4adf-a977-cd5924a0affb"
+   #uuid "d943efa0-80ea-42ac-9c7f-b6480486b00d"
+   #uuid "df2211ff-1462-4a83-8c61-c6cebb494a11"
+   #uuid "86ac5dc0-1af1-4a30-843e-53fcec638ffe"
+   #uuid "3da77216-08e4-4702-8b80-5b2012814307"],
+  :canvas-type :absolute,
+  :blocks-by-slot {}},
+ #uuid "d9ff43ec-05e7-458c-885c-dde851df253a"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.37191831697311134,
+   :x-end 0.7719183169731114,
+   :y-start 0,
+   :y-end 0.39703703703703697},
+  :original-aspect-ratio? true,
+  :blur 0,
+  :image-aspect-ratio 1.791044776119403,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/6f2f6728-87c7-4e2d-9696-f141360288df?pitch-bytes=696148&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603061115855},
+ #uuid "27824c49-7015-4a1d-92f2-1ad9f0e20bcf"
+ {:font-style "normal",
+  :entity-type :block,
+  :text-align :center,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.6116025759536575,
+   :x-start 0.19768354201541913,
+   :x-end 0.30197584511713793,
+   :y-end 0.6525940707147145},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :text-align-vertical :top,
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>Shift</p>"},
+ #uuid "91f0ea85-ecd6-4121-a2a1-5c65f5b7516a"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.55230951885746,
+   :x-end 0.9481127731776664,
+   :y-end 0.25721711510213885},
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>A brief description of hawt tip</p>"},
+ #uuid "c64a4926-f105-498c-86a7-4aced473446a"
+ {:font-style "normal",
+  :entity-type :block,
+  :text-align :center,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.6116025759536575,
+   :x-start 0.05209285981907966,
+   :x-end 0.15638516292079846,
+   :y-end 0.6525940707147145},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :text-align-vertical :top,
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>Command</p>"},
+ #uuid "049575a4-44d9-42d7-84bb-001b70e68d5c"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.7493738266576997,
+   :x-start 0.05204843314600678,
+   :x-end 0.661388959935353,
+   :y-end 0.9080829003322091},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p><span style=\"color: rgb(43, 42, 53); font-weight: 700;\">✨ Template slide previews feature the right visual effects again.&nbsp;</span></p><p>If you're editing a presentation and want to get a preview of a template slide, you can open the template picker and hover over the slide. This change brings back the slide outline and fade-in effect. </p>"},
+ #uuid "e5bb77b8-a49d-4585-8460-a200ed88585a"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.7132812499999999,
+   :x-end 0.9997891865079365,
+   :y-start -1.0842021724855044e-17,
+   :y-end 1},
+  :entity-type :block,
+  :fill-color {:r 246, :g 246, :b 249, :a 1},
+  :edit-mode {:type :locked-position}},
+ #uuid "3202522f-d1b4-4015-98dd-b607350b1632"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "f312407e-bfc5-4ce1-a0c0-715a59535224"
+   #uuid "b383be76-636b-46d9-8693-275dd1747da8"
+   #uuid "4f80a359-5be0-4980-a5a0-0f190ebf40dd"
+   #uuid "a27269bb-a256-4f03-b4b5-e6f3aa3ab665"
+   #uuid "5d78fade-311d-4542-8bcc-3a074c937769"
+   #uuid "f493051d-c870-4b78-ab7a-18f5a8a7d5d7"],
+  :canvas-type :absolute,
+  :background-color {:r 71, :g 202, :b 210, :a 1}},
+ #uuid "50bab6d6-76f4-4898-a2c2-21358fed7e5c"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.3872505989562494,
+   :x-end 0.820228765410082,
+   :y-start 0.05224689020312872,
+   :y-end 0.8651818755270576},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 0.9468641114982579,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/3d527d1c-c881-4bfd-bba5-029b0d7a758e?pitch-bytes=529174&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185864936},
+ #uuid "3107f444-319f-4b8e-96e1-c6b7d22b94d7"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.028902566118254664,
+   :x-end 0.30786114885731947,
+   :y-start 0.39506749271591773,
+   :y-end 0.8909938620298101},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/8dc85d43-c215-4f14-969d-da4dc822908f?pitch-bytes=1194379&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185637732},
+ #uuid "931d219c-74b7-41bc-8887-07f6a50db301"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.2462681480401858,
+   :x-end 0.927478125195648,
+   :y-start 0.1295092085218325,
+   :y-end 0.8702703986891649},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.634858812074002,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/22244a50-e73c-48cb-a387-271ac695b595?pitch-bytes=638879&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :created-at 1606775222173},
+ #uuid "6ee17d38-e178-4905-b563-156448f2770c"
+ {:fill-color {:r 254, :g 138, :b 167, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.5523163335449731,
+   :x-end 0.6481496668783064,
+   :y-start 0.09283447618746789,
+   :y-end 0.1298715132245044},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "959b18e4-0603-4c22-9c54-12494da9ba21"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.27799141962434926,
+   :x-start 0.05218472684414874,
+   :x-end 0.4479409774697475,
+   :y-end 0.6469148693706938},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>Make your charts pop with more data. Now you can add up to eight columns of data to bar and line charts.</p><p><br></p><p>To add a new data series, add a bar or line chart and click on the plus sign on the right-hand side of the chart editor. Each column can be customized with a different color. Just click on the color at the top of each column header to open the color picker. Prefer presets? If you click on the chart, you can choose from a predefined color palette.</p>"},
+ #uuid "921885d5-27b4-413e-a895-73cab2796967"
+ {:block-type :text,
+  :text-type :headline-small,
+  :coords
+  {:y-start 0.2048134208842943,
+   :x-start 0.0521179977814753,
+   :x-end 0.312534664448142,
+   :y-end 0.31036897643984984},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Add multiple data series to charts</p>"},
+ #uuid "c2d7f043-e9b5-4819-9b0a-d69ffee2dd3d"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.31251980647694094,
+   :y-end 0.31068428164209694},
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>Title of original blog post here</p>"},
+ #uuid "00cd6428-a7e0-4801-b891-8b63ed7d5a24"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 700,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09715994482915255,
+   :x-start 0.05196665023079728,
+   :x-end 0.13657765283496395,
+   :y-end 0.12308587075507847},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">New Feature</span></p>",
+  :font-family "Inter"},
+ #uuid "205f1106-9ed0-488b-a95c-1b98a8d5d3c4"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "58c2a047-6bb7-407c-8b38-22dfb431fb60"
+   #uuid "468b5618-26b6-4f27-9a63-d49d85e1ed28"
+   #uuid "9d637a60-7541-4098-9fac-7462ae199d7c"
+   #uuid "d7679180-27e1-4876-8308-6225f21b4278"
+   #uuid "1e34deee-231e-460e-b324-09fe94c358d0"
+   #uuid "74c3b90a-f7a2-49ae-9dc5-9d73b5d73d42"
+   #uuid "077f79b1-4494-4fe3-88f6-0521048eebd7"
+   #uuid "c520437d-fa55-41dc-addf-354b5273c35d"
+   #uuid "1e954ba1-9c90-422b-b321-b88454de5fc0"
+   #uuid "c64a4926-f105-498c-86a7-4aced473446a"
+   #uuid "27824c49-7015-4a1d-92f2-1ad9f0e20bcf"
+   #uuid "158eca79-6aa6-4b64-8ce7-1c9a78870e94"
+   #uuid "91f0ea85-ecd6-4121-a2a1-5c65f5b7516a"
+   #uuid "e1a9c7a9-68fd-49e5-8fc0-f0059eaa6709"
+   #uuid "ceb8abaa-7255-404a-8e3a-94405ad1d42a"
+   #uuid "bcfbf8be-4533-4970-83c7-c35a01c16344"
+   #uuid "e58d3b78-c18f-4585-bb57-e232e9fa9875"
+   #uuid "6e8a4c79-9ada-4edc-9c62-d00266ff0f9c"
+   #uuid "6ee17d38-e178-4905-b563-156448f2770c"
+   #uuid "0f49682e-9f07-4a54-ac00-a8fb1c75e773"],
+  :canvas-type :absolute,
+  :blocks-by-slot {},
+  :background-color {:r 254, :g 138, :b 167, :a 1}},
+ #uuid "bc2c2c67-068a-43b6-8149-6ed8f8141bd8"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.9,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.5883096330386699,
+   :x-start 0.1868128950382353,
+   :x-end 0.4471833958658131,
+   :y-end 0.62751888808755},
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>Submit a feature request</p>"},
+ #uuid "01260ca3-f267-4042-a46a-e4f3786c53d8"
+ {:entity-type :block,
+  :rotation -300,
+  :coords
+  {:x-start 0.7237579557506819,
+   :x-end 0.8906554899519417,
+   :y-start -0.07952380722729908,
+   :y-end 0.20804176304102426},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.0317880794701986,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/5776aa36-0980-4293-92fa-a81abab37296?pitch-bytes=342571&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185641018},
+ #uuid "1ed24df6-7011-4fde-bf9a-c0a12fe8b9a0"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.5521429124006312,
+   :x-end 0.9479762457339644,
+   :y-start 0.4975438184436831,
+   :y-end 0.4993956702955349},
+  :entity-type :block,
+  :arrowhead-type :triangle,
+  :fill-color {:r 43, :g 42, :b 53, :a 1},
+  :opacity 0.2},
+ #uuid "371e28c5-7c30-47ed-9f83-3cbb8723fdd3"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "e1ec05eb-3ebc-4272-b8fe-b5be3ef7901c"
+   #uuid "c1321ec4-ff8e-476f-95ff-dfda968740eb"
+   #uuid "6dd68bc6-e959-4b8c-bb71-a32002736d7c"
+   #uuid "0a4c00f2-fb01-4690-8ccf-2a01da0c46bc"
+   #uuid "5bb99f83-5d93-4637-b863-ae454fc25e46"
+   #uuid "5352416c-5ff2-4a61-8324-278bab551a81"
+   #uuid "4aa50f74-15f9-4012-8ebb-e86a4a9e6f80"],
+  :canvas-type :absolute,
+  :background-color {:r 76, :g 101, :b 243, :a 1}},
+ #uuid "840b3383-5334-4139-97ea-37c693f9c0a0"
+ {:block-type :sticker,
+  :coords
+  {:x-start 0.6730586102694448,
+   :x-end 0.9891644459918494,
+   :y-start 0.51549426817406,
+   :y-end 0.9622571826617248},
+  :entity-type :block,
+  :sticker-type "graphmonsters_run.png",
+  :sticker-category "graph"},
+ #uuid "9ae2a9a2-9bf5-41db-b63d-1f223a22ce9e"
+ {:font-style "normal",
+  :entity-type :block,
+  :font-size 0.9,
+  :font-weight 400,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.7407407407407409,
+   :x-start 0.05210592819744565,
+   :x-end 0.9478253292391123,
+   :y-end 0.7814814814814817},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-type :headline-small,
+  :opacity 1,
+  :block-type :text,
+  :letter-spacing -0.01,
+  :body
+  "<p>1 New Feature &nbsp;·&nbsp;&nbsp;5 Improvements &nbsp;·&nbsp; 6 Bug Fixes  ·&nbsp;&nbsp;1 Blog Post  ·&nbsp;&nbsp;1 Announcement</p>",
+  :font-family "Lato"},
+ #uuid "06aeb394-17c9-4142-a4c5-6a814df75cb9"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.3280776090252366,
+   :x-start 0.05218472684414874,
+   :x-end 0.31260139351081534,
+   :y-end 0.8577072386548663},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>Make your charts pop with more data. Now you can add up to eight columns of data to bar and line charts.</p><p><br></p><p>To add a new data series, add a bar or line chart and click on the plus sign on the right-hand side of the chart editor. Each column can be customized with a different color. Just click on the color at the top of each column header to open the color picker. Prefer presets? If you click on the chart, you can choose from a predefined color palette.</p>"},
+ #uuid "1e971276-d84a-4c95-b44c-272bddc685ae"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "7e88054f-e417-42cc-95a2-bd7fcf26d991"
+   #uuid "c7d20080-b827-402c-bfa7-e9310df52c52"
+   #uuid "c9e7e32d-d27f-4b27-b30d-0aa663ca63df"
+   #uuid "19d2d4ab-6a72-41be-84c8-ceb9a29423cd"
+   #uuid "6a756dc2-2446-443a-8bae-c6e313258b44"
+   #uuid "bdd8cace-e2e2-4b50-94a2-1e15c3eb3796"],
+  :canvas-type :absolute,
+  :background-color {:r 71, :g 202, :b 210, :a 1}},
+ #uuid "d1213184-0deb-4892-bcd0-279ecc6232c1"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.5521429124006312,
+   :x-end 0.9479762457339644,
+   :y-start 0.6517784199212356,
+   :y-end 0.6536302717730874},
+  :entity-type :block,
+  :arrowhead-type :triangle,
+  :fill-color {:r 43, :g 42, :b 53, :a 1},
+  :opacity 0.2},
+ #uuid "89be21f3-99c6-480b-a12d-ffda3edbe253"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.19499211464726332,
+   :x-end 0.8304087813139299,
+   :y-start 0.15836698920296116,
+   :y-end 0.5185364721012744},
+  :entity-type :block,
+  :auto-vertical-align-default :top,
+  :corner-roundness 0.04,
+  :fill-color {:r 246, :g 246, :b 249, :a 1}},
+ #uuid "84ac867a-7986-43ea-96a4-0f0a0ce1c77f"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "931d219c-74b7-41bc-8887-07f6a50db301"
+   #uuid "5ecf0a06-bd36-4c06-90cb-fe4d1c4edb3c"
+   #uuid "0b7d5a9d-db77-45b3-9635-acfcfb0cc8b5"
+   #uuid "bb1cc78c-881a-43ac-bc63-56bb55d6976a"
+   #uuid "73dbdfc4-a9bc-43b5-a86b-0be4f8836db1"
+   #uuid "00cd6428-a7e0-4801-b891-8b63ed7d5a24"
+   #uuid "f04ddf37-b497-4e70-9c17-871a8008af2b"
+   #uuid "39ae0369-484b-403b-873e-c3581b42d337"
+   #uuid "ec1eb622-3975-4e77-8b69-12e723ebf391"],
+  :canvas-type :absolute,
+  :blocks-by-slot {},
+  :background-color {:r 220, :g 236, :b 255, :a 1},
+  :background-image #uuid "39ae0369-484b-403b-873e-c3581b42d337"},
+ #uuid "c8133324-bff9-4ea6-af2a-6a5be7b378e8"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.5791176146934989,
+   :x-start 0.05204843314600678,
+   :x-end 0.6613932681064538,
+   :y-end 0.7023620747899748},
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">📊 Invalid values in chart editor won't appear as NaN.&nbsp;</span></p><p>If you update the chart editor with a value that can't be parsed, the cell will highlight the original value in red instead of displaying NaN.&nbsp;</p>"},
+ #uuid "f427ef37-5fdf-4bd6-be6d-1dba81812644"
+ {:entity-type :block,
+  :block-type :video,
+  :aspect-ratio 1.7821782178217822,
+  :sources
+  [{:type :jwplayer/playlist, :media-id "FA95fnuW"}
+   {:type :jwplayer/thumbnail,
+    :thumbnail-src
+    "https://cdn.jwplayer.com/v2/media/FA95fnuW/poster.jpg"}],
+  :created-at 1606758930173,
+  :coords
+  {:x-start -0.05033654355328779,
+   :x-end 0.9875840152871055,
+   :y-start -0.005041859816578667,
+   :y-end 1.030315932211863}},
+ #uuid "bcfbf8be-4533-4970-83c7-c35a01c16344"
+ {:font-style "normal",
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :font-size 0.6,
+  :font-weight 900,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.5804970942509987,
+   :x-end 0.6034137609176654,
+   :y-start 0.5333641461761263,
+   :y-end 0.574104886916867},
+  :border? true,
+  :auto-vertical-align-default :top,
+  :border-width 3,
+  :block-type :shape,
+  :border-color {:r 51, :g 74, :b 192, :a 1},
+  :corner-roundness 0.2,
+  :body "<p><span style=\"color: rgb(51, 74, 192);\">K</span></p>",
+  :font-family "Lato"},
+ #uuid "98d6b8ea-fd74-4ceb-88e9-843a6c8b5823"
+ {:entity-type :block,
+  :text-align :left,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.8667605090747904,
+   :x-start 0.05208333333333332,
+   :x-end 0.31248514202879896,
+   :y-end 0.9077520038358474},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://calendly.com/pitch-preview/feedback?month=2020-03\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-family: Lato; font-style: normal; font-weight: 700;\">Learn more in the help center →</a></p>"},
+ #uuid "2023dd20-e923-47f7-a92c-e46f972b456c"
+ {:fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.161129887687188,
+   :x-end 0.47362988768718794,
+   :y-start 0.1522873174339065,
+   :y-end 0.8520155974610215},
+  :border? false,
+  :border-width 2,
+  :block-type :shape,
+  :border-color {:r 255, :g 255, :b 255, :a 1},
+  :corner-roundness 0.04,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.2},
+  :arrowhead-type :triangle},
+ #uuid "8b19ef51-447e-4f8c-b57c-2799ee53f7e5"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children [],
+  :canvas-type :absolute,
+  :id #uuid "8b19ef51-447e-4f8c-b57c-2799ee53f7e5",
+  :deleted true},
+ #uuid "4aa50f74-15f9-4012-8ebb-e86a4a9e6f80"
+ {:block-type :image,
+  :coords
+  {:x-start 0.7582344026114094,
+   :x-end 1.0560422338588615,
+   :y-start 0.6021976639406273,
+   :y-end 1.0842499052385477},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/cc02f35c-7e9b-4199-aefb-af29537892eb?pitch-bytes=718548&pitch-content-type=image%2Fpng",
+  :created-at 1585626639312,
+  :locked-aspect-ratio? true,
+  :original-aspect-ratio? true},
+ #uuid "5bb99f83-5d93-4637-b863-ae454fc25e46"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.27799141962434926,
+   :x-start 0.05218472684414874,
+   :x-end 0.44792530957154497,
+   :y-end 0.7288978526864707},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>Want to liven up your workspace? Invite your coworkers and assign them <span style=\"font-style: italic;\">dozens</span> of slides in the middle of the night. Already did that? Okay, then how about we give your folders an upgrade. Here's how:</p><p><br></p><ul><li>Double-click on a folder to rename it.</li><li>Add an emoji to the first character .</li><li class=\"ql-indent-1\">Tip: You can pull up the emoji picker using <span style=\"color: rgb(51, 74, 192); font-weight: 600;\">Control</span> + <span style=\"color: rgb(51, 74, 192); font-weight: 600;\">Command</span> + <span style=\"color: rgb(51, 74, 192); font-weight: 600;\">Space</span> on macOS, or <span style=\"font-weight: 600; color: rgb(51, 74, 192);\">Windows</span> + <span style=\"font-weight: 600; color: rgb(51, 74, 192);\">;</span> on, well, Windows. </li><li>Press <span style=\"color: rgb(51, 74, 192); font-weight: 600;\">Enter</span><span style=\"color: rgb(43, 42, 53); font-weight: 400;\">.</span></li></ul>"},
+ #uuid "e58d3b78-c18f-4585-bb57-e232e9fa9875"
+ {:font-style "normal",
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :font-size 0.6,
+  :font-weight 900,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.5521303097252082,
+   :x-end 0.5990053097252082,
+   :y-start 0.657781783447341,
+   :y-end 0.6985225241880817},
+  :border? true,
+  :auto-vertical-align-default :top,
+  :border-width 3,
+  :block-type :shape,
+  :border-color {:r 51, :g 74, :b 192, :a 1},
+  :corner-roundness 0.2,
+  :body "<p><span style=\"color: rgb(51, 74, 192);\">CTRL</span></p>",
+  :font-family "Lato"},
+ #uuid "bdd8cace-e2e2-4b50-94a2-1e15c3eb3796"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 900,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09751177484435501,
+   :x-start 0.05198741341001666,
+   :x-end 0.14677094205585,
+   :y-end 0.12343770077028093},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">improvements</span></p>",
+  :font-family "Lato"},
+ #uuid "40e6084c-59e4-4ff1-9bd1-34d8f5b9fa1d"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.7472918911082436,
+   :x-start 0.05204843314600678,
+   :x-end 0.6613808992714951,
+   :y-end 0.9095800623819342},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p><span style=\"color: rgb(43, 42, 53); font-weight: 700;\">✨ Template slide previews feature the right visual effects again.&nbsp;</span></p><p>If you're editing a presentation and want to get a preview of a template slide, you can open the template picker and hover over the slide. This change brings back the slide outline and fade-in effect. </p>"},
+ #uuid "077f79b1-4494-4fe3-88f6-0521048eebd7"
+ {:font-style "normal",
+  :entity-type :block,
+  :text-align :center,
+  :font-size 3,
+  :font-weight 700,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.4331198210092788,
+   :x-start 0.3667788011884062,
+   :x-end 0.4236555443468132,
+   :y-end 0.5667877404623426},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :text-align-vertical :center,
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>M</p>",
+  :font-family "Lato"},
+ #uuid "7729a036-75c2-4a19-8eae-17b8a40af306"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.397959983639778,
+   :x-end 0.797959983639778,
+   :y-start 0.046296296296296294,
+   :y-end 0.44333333333333325},
+  :original-aspect-ratio? true,
+  :blur 0,
+  :image-aspect-ratio 1.791044776119403,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/6f2f6728-87c7-4e2d-9696-f141360288df?pitch-bytes=696148&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603061115855},
+ #uuid "b52e1431-0d5f-49b3-8339-a9275674a14a"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.5437739706817596,
+   :x-start 0.052048433146006774,
+   :x-end 0.6611982175825389,
+   :y-end 0.6667484580680992},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p><span style=\"color: rgb(43, 42, 53); font-weight: 600;\">🎨 Title of improvement</span></p><p>We've updated the look and feel of the help menu and keyboard shortcuts to align with the visual awesomeness we shipped last week.&nbsp;</p>"},
+ #uuid "8e1ba2c7-5288-416b-85e8-c52227e16081"
+ {:block-type :sticker,
+  :coords
+  {:x-start 0.6730586102694448,
+   :x-end 0.9891644459918494,
+   :y-start 0.51549426817406,
+   :y-end 0.9622571826617248},
+  :entity-type :block,
+  :sticker-type "graphmonsters_run.png",
+  :sticker-category "graph"},
+ #uuid "f868d016-8b25-49f6-9736-25bff53f0d0b"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.20333263137543223,
+   :x-start 0.052048433146006774,
+   :x-end 0.6611697279962705,
+   :y-end 0.36765857817073333},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">🎥 Video controls fade out when mouse is idle.&nbsp;</span></p><p>If your mouse doesn't move for three seconds, the play or pause button will fade away, letting you focus on your video. This should improve the experience when presenting videos that fill an entire slide.&nbsp;</p>"},
+ #uuid "36299400-3780-47c1-ae36-4dca4f6e5815"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.49999999999999994,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "48908712-8ea8-4820-9fbd-8482ef710943"
+ {:block-type :image,
+  :coords
+  {:x-start 0.14251016777592895,
+   :x-end 0.48938793491164334,
+   :y-start 0.02583154259397441,
+   :y-end 0.6621002033647625},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/defb1180-e298-4924-8e74-341ed3945c85?pitch-bytes=1757000&pitch-content-type=image%2Fpng",
+  :created-at 1585626639669,
+  :locked-aspect-ratio? true,
+  :original-aspect-ratio? true},
+ #uuid "1a99af5b-0bcb-4367-a369-639543957984"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.49999999999999994,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "2be37004-849b-4a52-99c4-242fd0eeefc3"
+ {:entity-type :block,
+  :text-align :center,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.6386079846086339,
+   :x-start 0.1868796241009088,
+   :x-end 0.4472501249284867,
+   :y-end 0.7205909741307479},
+  :auto-vertical-align-default :top,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p>Share your feedback and vote on feature requests from other users.</p>"},
+ #uuid "ebf6f625-c830-446e-a9bd-e00ab47c7e24"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.2041628150613175,
+   :x-start 0.05204843314600678,
+   :x-end 0.6613808992714951,
+   :y-end 0.36645098633500817},
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">📏 Duplicated text blocks will keep their original alignment.&nbsp;</span></p><p>Thanks to some behind-the-scenes refactoring, text blocks are uniformly measured to prevent slight variations when working across different screen sizes. That means that if you duplicate a slide, the text blocks on the new slide will have identical coordinates and alignment.</p>"},
+ #uuid "73dbdfc4-a9bc-43b5-a86b-0be4f8836db1"
+ {:fill-color {:r 108, :g 225, :b 148, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05219530921553321,
+   :x-end 0.1368825635532277,
+   :y-start 0.09210977278434193,
+   :y-end 0.12914680982137855},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "d943efa0-80ea-42ac-9c7f-b6480486b00d"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.4204900838598846,
+   :x-start 0.052048433146006774,
+   :x-end 0.6611758339736954,
+   :y-end 0.5395218814397009},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p><span style=\"color: rgb(43, 42, 53); font-weight: 600;\">🏃‍♀️</span><span style=\"color: rgb(43, 42, 53); font-weight: 700;\">Real-time collaboration is a little more real-time.&nbsp;</span></p><p>Week over week, we find ways to speed up your Pitch experience. This week's update makes sure any edits you make are instantly visible to your collaborators.&nbsp;</p>"},
+ #uuid "b9ef1e4c-6053-4c6d-9b1e-3673463de1ae"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.33078922574994235,
+   :x-start 0.05218472684414874,
+   :x-end 0.31258653553961435,
+   :y-end 0.5357467088647332},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>A short blurb or overview about what viewers can expect from reading the blog post. Some lorem ipsum to get your flow going: lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+  :auto-vertical-align-default :top},
+ #uuid "aa06ad39-13ed-48ab-b8bd-3095e2fc7722"
+ {:fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.3645833333333333,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "d31ce749-f1df-49ee-9a1a-8f4955c5db63"
+ {:entity-type :block,
+  :rotation 85,
+  :coords
+  {:x-start 0.17231436254683585,
+   :x-end 0.3346263386428731,
+   :y-start -0.07700873970833763,
+   :y-end 0.21154588446239525},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/06c74f3b-d665-40a4-9060-b34dd0c9d446?pitch-bytes=96687&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606186245877},
+ #uuid "451b1dc9-714d-4a76-8e73-a7d426a7cb28"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.2565571258970647,
+   :x-end 0.937654361120778,
+   :y-start 0.12989814304926517,
+   :y-end 0.8703265152080218},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.6353229762878168,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/529adde2-d956-49f6-b5da-79af824b1a09?pitch-bytes=12135284&pitch-content-type=image%2Fgif&pitch-gifm=true",
+  :block-type :image,
+  :image-scale-x 1,
+  :corner-roundness 0.02,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :created-at 1606776460138},
+ #uuid "c3c54376-06d1-4388-8343-0eed509ed750"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.19385287214329822,
+   :x-end 0.43939015104722334,
+   :y-start 0.17273795895957733,
+   :y-end 0.6092486770109994},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/8dc85d43-c215-4f14-969d-da4dc822908f?pitch-bytes=1194379&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185637732},
+ #uuid "c7d20080-b827-402c-bfa7-e9310df52c52"
+ {:block-type :image,
+  :coords
+  {:x-start 0.42030306179416416,
+   :x-end 0.9422779007934069,
+   :y-start 0.3049624387234096,
+   :y-end 0.7035511497402619},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/64c726ef-0bc9-4ba6-9092-58328663bab4",
+  :auto-align-default :left,
+  :auto-vertical-align-default :center},
+ #uuid "e4987988-d0bd-4756-8b86-04d1c6ac8d11"
+ {:block-type :text,
+  :text-type :headline-small,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.44793505507314196,
+   :y-end 0.2565277263399585},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Add multiple data series to charts</p>"},
+ #uuid "1c4e0a54-7da0-41ab-856e-9d101c9f8850"
+ {:fill-color {:r 108, :g 225, :b 148, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05219530921553321,
+   :x-end 0.1368825635532277,
+   :y-start 0.09210977278434193,
+   :y-end 0.12914680982137855},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "13ebb00a-8752-4a7a-a9f2-b60916108635"
+ {:entity-type :block,
+  :rotation -10,
+  :coords
+  {:x-start 0.8723080544564752,
+   :x-end 0.9692468854955738,
+   :y-start 0.6394074926726208,
+   :y-end 0.7856621201774774},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.1783264746227708,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/7bd92af7-e3f4-435d-a3c6-6abb155857fb?pitch-bytes=80126&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.2},
+  :created-at 1604355812086},
+ #uuid "580c8727-63f6-4ac6-a466-4c7fb70f2df7"
+ {:fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.3645833333333333,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "8ba9734d-6098-47e3-aad8-8491c2e46323"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :show-scale-labels? false,
+  :coords
+  {:x-start 0.07031166928237276,
+   :x-end 0.9293290910133262,
+   :y-start 0.12150631149712088,
+   :y-end 0.8772438790824767},
+  :content
+  [["Chocolate Bars" "3" "7"]
+   ["Granola Bars" "8" "5"]
+   ["Ice Cream Bars" "6" "3"]
+   ["Crowbars" "2" "7"]],
+  :background-color {:r 255, :g 255, :b 255, :a 1},
+  :bar-width 128,
+  :color-range
+  [{:r 51, :g 74, :b 192, :a 1}
+   {:r 254, :g 138, :b 167, :a 1}
+   {:r 108, :g 126, :b 216, :a 1}
+   {:r 141, :g 154, :b 225, :a 1}
+   {:r 173, :g 183, :b 233, :a 1}
+   {:r 205, :g 211, :b 242, :a 1}],
+  :column-labels ["Values" "Values"],
+  :show-value-labels? false,
+  :category-labels/font-size 0.6,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "39ae0369-484b-403b-873e-c3581b42d337"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.37191831697311134,
+   :x-end 0.7719183169731114,
+   :y-start 0,
+   :y-end 0.39703703703703697},
+  :original-aspect-ratio? true,
+  :blur 0,
+  :image-aspect-ratio 1.791044776119403,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/6f2f6728-87c7-4e2d-9696-f141360288df?pitch-bytes=696148&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603061115855},
+ #uuid "5e3938db-2b59-45de-9127-10e19ff86fd0"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.19385287214329822,
+   :x-end 0.43939015104722334,
+   :y-start 0.17273795895957733,
+   :y-end 0.6092486770109994},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/8dc85d43-c215-4f14-969d-da4dc822908f?pitch-bytes=1194379&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185637732},
+ #uuid "86ac5dc0-1af1-4a30-843e-53fcec638ffe"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 900,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09799906525262475,
+   :x-start 0.051994943112832676,
+   :x-end 0.146763412353034,
+   :y-end 0.12295041036201118},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">improvements</span></p>",
+  :font-family "Lato"},
+ #uuid "8fb17b0d-53db-4606-b567-3b025d8ccfa1"
+ {:fill-color {:r 255, :g 118, :b 115, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05185265579722875,
+   :x-end 0.12216515579722875,
+   :y-start 0.09301935046527406,
+   :y-end 0.1300563875023106},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "9f367951-45cd-4c63-9501-0c0a19235505"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.11531951051546675,
+   :x-end 0.8846804894845334,
+   :y-start 0.06508361310465077,
+   :y-end 0.9349163868953492},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.57243195785777,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/5b137daa-4911-4362-a4ab-f98b7496ecbb?pitch-bytes=1272330&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606775071976},
+ #uuid "c9e7e32d-d27f-4b27-b30d-0aa663ca63df"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.3305966454824868,
+   :x-start 0.05218472684414874,
+   :x-end 0.31258511746914874,
+   :y-end 0.615781830667672},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>A slide where visuals mean more than words, puns, etc.</p><p><br></p><p><span style=\"font-style: normal; font-family: Lato; font-weight: 700; color: rgb(43, 42, 53);\">What we did:</span></p><ul data-checked=\"true\"><li>A small update</li><li>Additional functionality</li><li>An improvement</li></ul>",
+  :auto-vertical-align-default :top},
+ #uuid "d1d757de-99ed-4db2-8077-7bc50fd8b2ca"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.05246785333258465,
+   :x-end 0.10437920480641684,
+   :y-start 0.09426939265018615,
+   :y-end 0.12618166686878293},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 2.891891891891892,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/c17e1601-766c-4b81-9e63-b96eaa9bf7f4?pitch-bytes=1326&pitch-content-type=image%2Fsvg%2Bxml",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603096079472},
+ #uuid "d076fbd1-ccfa-4e4e-aa0d-ea70e0ca8d5d"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.09283396661583324,
+   :x-start 0.11442872464982329,
+   :x-end 0.11866049548315662,
+   :y-end 0.13357470735657398},
+  :text-color {:r 84, :g 84, :b 101, :a 1},
+  :auto-vertical-align-default :top,
+  :text-type :paragraph,
+  :opacity 0.3,
+  :block-type :text,
+  :body "<p>|</p>"},
+ #uuid "78d38e39-3ace-478f-b973-98e1e29c9bbc"
+ {:entity-type :block,
+  :rotation 85,
+  :coords
+  {:x-start 0.3158676792632938,
+   :x-end 0.4618065304059745,
+   :y-start -0.14377873859035067,
+   :y-end 0.11566810788552606},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/06c74f3b-d665-40a4-9060-b34dd0c9d446?pitch-bytes=96687&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606186245877},
+ #uuid "1145ddf7-e76c-448b-b35e-bd35a9b39059"
+ {:fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0,
+   :x-end 1,
+   :y-start 0.6388888888888888,
+   :y-end 1.0046296296296295},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.11}},
+ #uuid "e5f59245-99e8-4d8b-971d-af7a39e89b3f"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.09283396661583324,
+   :x-start 0.11442872464982329,
+   :x-end 0.11866049548315662,
+   :y-end 0.13357470735657398},
+  :text-color {:r 84, :g 84, :b 101, :a 1},
+  :auto-vertical-align-default :top,
+  :text-type :paragraph,
+  :opacity 0.3,
+  :block-type :text,
+  :body "<p>|</p>"},
+ #uuid "6a756dc2-2446-443a-8bae-c6e313258b44"
+ {:fill-color {:r 71, :g 202, :b 210, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.052327465370676084,
+   :x-end 0.1470770477447567,
+   :y-start 0.09301935046527408,
+   :y-end 0.13005638750231063},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "f978e872-c39c-4bea-8420-e7596a213a98"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children [#uuid "ee494b02-0a9d-4ac7-906b-5e3e6a43b808"],
+  :canvas-type :absolute},
+ #uuid "9f032dd3-eb3b-4102-8053-0938be13670a"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.2565571258970647,
+   :x-end 0.937654361120778,
+   :y-start 0.12989814304926517,
+   :y-end 0.8703265152080218},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.6353229762878168,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/529adde2-d956-49f6-b5da-79af824b1a09?pitch-bytes=12135284&pitch-content-type=image%2Fgif&pitch-gifm=true",
+  :block-type :image,
+  :image-scale-x 1,
+  :corner-roundness 0.02,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :created-at 1606776460138},
+ #uuid "ceb8abaa-7255-404a-8e3a-94405ad1d42a"
+ {:font-style "normal",
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :font-size 0.6,
+  :font-weight 900,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.5521303097252083,
+   :x-end 0.575046976391875,
+   :y-start 0.5333641461761263,
+   :y-end 0.574104886916867},
+  :border? true,
+  :auto-vertical-align-default :top,
+  :border-width 3,
+  :block-type :shape,
+  :border-color {:r 51, :g 74, :b 192, :a 1},
+  :corner-roundness 0.2,
+  :body
+  "<p><span style=\"color: rgb(51, 74, 192); font-family: Lato; font-style: normal; font-weight: 700;\">⌘</span></p>",
+  :font-family "Lato"},
+ #uuid "80d606a9-c90a-4477-8c52-7e2c908d75f9"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.32914108134735015,
+   :x-start 0.05218472684414874,
+   :x-end 0.32140673205248205,
+   :y-end 0.8995114517177205},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>Make your charts pop with more data. Now you can add up to eight columns of data to bar and line charts. </p><p><br></p><p>To add a new data series,  click on the plus sign on the right-hand side of the chart editor. Each column can be customized with a different color by clicking on the color at the top of each column header.</p><p><br></p><p>Prefer presets? If you click on the chart, you can choose from a predefined color palette.</p><p><br></p>"},
+ #uuid "1e7b132c-b6d3-48a2-8f36-49e8af560ae8"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children [],
+  :canvas-type :absolute,
+  :background-color {:r 220, :g 236, :b 255, :a 1},
+  :blocks-by-slot {}},
+ #uuid "afdd9eb9-1b94-442c-99ba-460e9844460e"
+ {:font-style "normal",
+  :entity-type :block,
+  :font-size 0.9,
+  :font-weight 400,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.7427529752839696,
+   :x-start 0.05210592819744565,
+   :x-end 0.9478605516105316,
+   :y-end 0.7823107183564794},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-type :headline-small,
+  :opacity 1,
+  :block-type :text,
+  :letter-spacing -0.01,
+  :body
+  "<p>1 New Feature  ·&nbsp;&nbsp;3 Improvements &nbsp;·&nbsp;&nbsp;5 Bug Fixes  ·&nbsp;&nbsp;1 Tip</p>",
+  :font-family "Lato"},
+ #uuid "f04ddf37-b497-4e70-9c17-871a8008af2b"
+ {:entity-type :block,
+  :text-align :left,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.8670112630951067,
+   :x-start 0.05208333333333332,
+   :x-end 0.3124837239583333,
+   :y-end 0.9077520038358474},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://calendly.com/pitch-preview/feedback?month=2020-03\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-family: Lato; font-style: normal; font-weight: 700;\">Learn more in the help center →</a></p>"},
+ #uuid "967a6372-ac09-4a29-b75b-fd9043f5f2e1"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 700,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09764723523742229,
+   :x-start 0.05196312198629675,
+   :x-end 0.1365811810794645,
+   :y-end 0.12259858034680873},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">New Feature</span></p>",
+  :font-family "Inter"},
+ #uuid "6c695753-bbfb-4440-9919-e06b4c35f190"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :show-scale-labels? false,
+  :show-scale-axis? false,
+  :coords
+  {:x-start 0.010078578036353859,
+   :x-end 0.4892452447030208,
+   :y-start 0.418770259832176,
+   :y-end 0.8972081283256343},
+  :content
+  [["Chocolate bars" "3"]
+   ["Granola bars" "8"]
+   ["Ice cream bars" "6"]
+   ["Crowbars" "2"]],
+  :background-color {:r 249, :g 249, :b 249, :a 1},
+  :column-labels ["Values"],
+  :value-labels/font-weight 700,
+  :show-value-labels? true,
+  :value-labels/font-style "normal",
+  :category-labels/font-size 0.6,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "1e5b9a6c-b15d-429b-9b62-597a3148bfcf"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.5521429124006312,
+   :x-end 0.9479762457339644,
+   :y-start 0.6517784199212356,
+   :y-end 0.6536302717730874},
+  :entity-type :block,
+  :arrowhead-type :triangle,
+  :fill-color {:r 43, :g 42, :b 53, :a 1},
+  :opacity 0.2},
+ #uuid "0a4b7040-92d2-4f77-bbd5-be275d419aea"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "36299400-3780-47c1-ae36-4dca4f6e5815"
+   #uuid "465e3d71-64cc-4108-b026-ce6a234ab561"
+   #uuid "959b18e4-0603-4c22-9c54-12494da9ba21"
+   #uuid "120ddac4-2a22-4afc-b531-e8aa436b679a"
+   #uuid "967a6372-ac09-4a29-b75b-fd9043f5f2e1"
+   #uuid "98d6b8ea-fd74-4ceb-88e9-843a6c8b5823"
+   #uuid "21109c8e-1b03-4b9b-ab2c-ca1835880f20"
+   #uuid "d1213184-0deb-4892-bcd0-279ecc6232c1"
+   #uuid "38895bf7-3461-49c2-bd56-f8d694843003"],
+  :canvas-type :absolute,
+  :blocks-by-slot {},
+  :background-color {:r 220, :g 236, :b 255, :a 1}},
+ #uuid "93724432-a14a-4c24-97ca-4fa0ead300c9"
+ {:entity-type :block,
+  :text-align :center,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.6391857254110004,
+   :x-start 0.5513736964802766,
+   :x-end 0.8117441973078544,
+   :y-end 0.7211687149331144},
+  :auto-vertical-align-default :top,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p>Learn more about Pitch and get answers straight from our support team.&nbsp;</p>"},
+ #uuid "3c83f4e0-795c-42a0-a8b1-48c0a87d67a4"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "7de29c5c-87b4-4f57-94b0-3528cf65949e"
+   #uuid "840b3383-5334-4139-97ea-37c693f9c0a0"
+   #uuid "ebf6f625-c830-446e-a9bd-e00ab47c7e24"
+   #uuid "8fb17b0d-53db-4606-b567-3b025d8ccfa1"
+   #uuid "0810fab6-db0a-44f3-883e-080f002696bc"],
+  :canvas-type :absolute,
+  :blocks-by-slot {}},
+ #uuid "637944a1-5f07-4ffb-98d4-bf02ceb6cbe3"
+ {:fill-color {:r 108, :g 225, :b 148, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05219530921553321,
+   :x-end 0.1368825635532277,
+   :y-start 0.09210977278434193,
+   :y-end 0.12914680982137855},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "d4b5fa90-c8a9-4719-ad15-e6dcc792d6f3"
+ {:fill-color {:r 255, :g 118, :b 115, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05185265579722875,
+   :x-end 0.12216515579722875,
+   :y-start 0.09301935046527406,
+   :y-end 0.1300563875023106},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "988a3cf0-fa39-48b5-8184-4b8db27eb065"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.7132812499999999,
+   :x-end 0.9997891865079365,
+   :y-start -1.0842021724855044e-17,
+   :y-end 1},
+  :entity-type :block,
+  :fill-color {:r 246, :g 246, :b 249, :a 1},
+  :edit-mode {:type :locked-position}},
+ #uuid "5ad27453-78e6-46fb-a273-3d98e7cc4fb9"
+ {:block-type :text,
+  :text-type :headline-small,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.312534664448142,
+   :y-end 0.3093055041177363},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Add multiple data series to charts</p>"},
+ #uuid "2c7ae3bf-cab6-4e45-92ff-b61e6b1834e5"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "9f032dd3-eb3b-4102-8053-0938be13670a"
+   #uuid "580c8727-63f6-4ac6-a466-4c7fb70f2df7"
+   #uuid "921885d5-27b4-413e-a895-73cab2796967"
+   #uuid "80d606a9-c90a-4477-8c52-7e2c908d75f9"
+   #uuid "637944a1-5f07-4ffb-98d4-bf02ceb6cbe3"
+   #uuid "77e2572f-7845-48b6-bee9-140f825a0e5c"
+   #uuid "b73806e6-2560-4914-a9e4-162144b64c88"
+   #uuid "231592f7-72e8-4a98-a6e2-68bf7943875f"],
+  :canvas-type :absolute,
+  :blocks-by-slot {},
+  :background-color {:r 220, :g 236, :b 255, :a 1},
+  :background-image #uuid "231592f7-72e8-4a98-a6e2-68bf7943875f"},
+ #uuid "77f4afdd-703b-4adf-a977-cd5924a0affb"
+ {:block-type :sticker,
+  :coords
+  {:x-start 0.6649960749303492,
+   :x-end 0.9997536503147751,
+   :y-start 0.41190069761913317,
+   :y-end 1.0070252760803349},
+  :entity-type :block,
+  :sticker-type "hands_heart.png",
+  :sticker-category "hands"},
+ #uuid "a80d0177-eabb-41da-8f25-d975eaeb6f6d"
+ {:entity-type :block,
+  :rotation -300,
+  :coords
+  {:x-start 0.6639021704476401,
+   :x-end 0.8547398506125522,
+   :y-start -0.12733665267419234,
+   :y-end 0.20147794957828682},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.0317880794701986,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/5776aa36-0980-4293-92fa-a81abab37296?pitch-bytes=342571&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185641018},
+ #uuid "0810fab6-db0a-44f3-883e-080f002696bc"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 900,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09728882344981471,
+   :x-start 0.05200042334389551,
+   :x-end 0.12228435285083318,
+   :y-end 0.12366065216482122},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">Bug fixes</span></p>",
+  :font-family "Lato"},
+ #uuid "231592f7-72e8-4a98-a6e2-68bf7943875f"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.37191831697311134,
+   :x-end 0.7719183169731114,
+   :y-start 0,
+   :y-end 0.39703703703703697},
+  :original-aspect-ratio? true,
+  :blur 0,
+  :image-aspect-ratio 1.791044776119403,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/6f2f6728-87c7-4e2d-9696-f141360288df?pitch-bytes=696148&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603061115855},
+ #uuid "0284eab3-44e7-427a-99f4-b35d35d85d40"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.2594242689623942,
+   :x-end 0.7749482892463445,
+   :y-start 0.22346618631433338,
+   :y-end 1.1913845349370054},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 0.9468641114982579,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/3d527d1c-c881-4bfd-bba5-029b0d7a758e?pitch-bytes=529174&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185864936},
+ #uuid "08fc5ee8-138d-4339-b47b-da42f47c1539"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "2023dd20-e923-47f7-a92c-e46f972b456c"
+   #uuid "48908712-8ea8-4820-9fbd-8482ef710943"
+   #uuid "8b0e47fe-d73e-436b-a989-1fcf504b6493"
+   #uuid "93724432-a14a-4c24-97ca-4fa0ead300c9"
+   #uuid "96ff490c-ce43-40a5-ab16-118d5be74802"
+   #uuid "7f93707c-d9ce-44ba-81dd-28a03d6de591"
+   #uuid "2be37004-849b-4a52-99c4-242fd0eeefc3"
+   #uuid "bc2c2c67-068a-43b6-8149-6ed8f8141bd8"
+   #uuid "5a7a888b-385c-4752-8bc2-90a15f10315f"
+   #uuid "65344766-4e02-45d8-89e3-d48e80bec394"],
+  :canvas-type :absolute,
+  :background-gradient
+  {:start {:r 76, :g 101, :b 243, :a 1},
+   :stop {:r 118, :g 87, :b 250, :a 1},
+   :angle 45}},
+ #uuid "7f93707c-d9ce-44ba-81dd-28a03d6de591"
+ {:entity-type :block,
+  :text-align :center,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.7560212001301734,
+   :x-start 0.5513736964802766,
+   :x-end 0.8117441973078544,
+   :y-end 0.7970126948912304},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://help.pitch.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-style: normal; font-weight: 600;\">Browse the help center →</a></p>"},
+ #uuid "fdeb0bc8-3fcc-46ed-b0f7-9142f81714c6"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.2462681480401858,
+   :x-end 0.927478125195648,
+   :y-start 0.1295092085218325,
+   :y-end 0.8702703986891649},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.634858812074002,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/22244a50-e73c-48cb-a387-271ac695b595?pitch-bytes=638879&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :created-at 1606775222173},
+ #uuid "210c226e-f543-4201-aa00-31ffe2103d2a"
+ {:entity-type :block,
+  :rotation -20,
+  :coords
+  {:x-start 0.7029896968228256,
+   :x-end 0.878234885228344,
+   :y-start 0.5350092507637673,
+   :y-end 0.8465562523735778},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/06c74f3b-d665-40a4-9060-b34dd0c9d446?pitch-bytes=96687&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606186245877},
+ #uuid "3fef91bf-0ce3-4c45-9dca-9a109a4d5a32"
+ {:entity-type :document,
+  :locale :en-US,
+  :slides-by-order
+  [#uuid "eeb1ffc4-0089-4f09-b46d-2a25199a0741"
+   #uuid "2c7ae3bf-cab6-4e45-92ff-b61e6b1834e5"
+   #uuid "f4ea2079-26d9-4ffe-b93c-e544eacfacf8"
+   #uuid "5ebcaf83-f16a-43f6-b387-f621db53e8de"
+   #uuid "3c83f4e0-795c-42a0-a8b1-48c0a87d67a4"
+   #uuid "371e28c5-7c30-47ed-9f83-3cbb8723fdd3"
+   #uuid "08fc5ee8-138d-4339-b47b-da42f47c1539"],
+  :template? false,
+  :template-id #uuid "ff0099ca-510e-4078-a097-5190a160f0e5",
+  :whats-new? true},
+ #uuid "d7679180-27e1-4876-8308-6225f21b4278"
+ {:fill-color {:r 248, :g 248, :b 248, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.1978369384359401,
+   :x-end 0.3020036051026068,
+   :y-start 0.40800517655758917,
+   :y-end 0.5931903617427744},
+  :original-aspect-ratio? false,
+  :block-type :shape,
+  :corner-roundness 0.2,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "77e2572f-7845-48b6-bee9-140f825a0e5c"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 700,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09715994482915255,
+   :x-start 0.05196665023079728,
+   :x-end 0.13657765283496395,
+   :y-end 0.12308587075507847},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">New Feature</span></p>",
+  :font-family "Inter"},
+ #uuid "a9eda863-ad57-4f44-b72c-dd7413b0c482"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :coords
+  {:y-start 0.21047308773121698,
+   :x-start 0.2044205292900596,
+   :y-end 0.7104730877312171,
+   :x-end 0.7044205292900596},
+  :content
+  [["Chocolate Bars" "3" "" ""]
+   ["Granola Bars" "8" "" ""]
+   ["Ice Cream Bars" "6" "" ""]
+   ["Crowbars" "2" "" ""]],
+  :column-labels ["Values" "Values" "Values"],
+  :show-value-labels? false,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "aef00da5-f7bf-48d5-bb45-243df1d63f13"
+ {:block-type :text,
+  :text-type :paragraph,
+  :body
+  "<p>This week we're shipping a long-awaited feature: multi-column chart support. Now you can present more convincing, data-driven stories by directly comparing data sets.</p><p><br></p><p>We're keeping the week a bit light while we work hard on another highly requested feature. We can't wait to *point* out this *powerful* update soon! 😉</p><p><br></p><p><span style=\"font-weight: 600; color: rgb(51, 74, 192);\">Check out this week's release</span><a href=\"https://calendly.com/pitch-preview/feedback?month=2020-03\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-weight: 600;\"> →</a></p>",
+  :coords
+  {:y-start 0.5740589073595007,
+   :x-start 0.1949921146472633,
+   :x-end 0.8303467289050758,
+   :y-end 0.8580632035563323},
+  :auto-resize? false,
+  :entity-type :block,
+  :auto-vertical-align-default :top},
+ #uuid "8fb8aa7a-cf95-4964-abd4-df4410d0f091"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.1527204360800155,
+   :x-start 0.05211799778147531,
+   :x-end 0.17662157851064197,
+   :y-end 0.19346117682075625},
+  :text-color {:r 84, :g 84, :b 101, :a 1},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>November 24, 2020</p>"},
+ #uuid "fbbcd5a7-537e-48df-a4c8-d2f809ccc45c"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.3201246560727722,
+   :x-end 0.6810621560727722,
+   :y-start 0.30056076263718656,
+   :y-end 0.6726655230404727},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.7827763496143958,
+  :image-position {:x 19.885356911793437, :y 100},
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/d8babd99-abac-4ccc-9e02-a53ce0609dfa?pitch-bytes=1430189&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1.03383828533908,
+  :locked-aspect-ratio? true,
+  :created-at 1606804320227},
+ #uuid "88d9379c-d2b0-4f8f-9ca4-ef5ab2d961a7"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.2041628150613175,
+   :x-start 0.05204843314600678,
+   :x-end 0.6613827430418401,
+   :y-end 0.32638503728353974},
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">🔡 Fonts used on cover slides will be visible in workspace.</span></p><p>Occasionally, when browsing a folder or your dashboard, text on cover slides would look slightly off. Now, Pitch loads those fonts first, so presentation previews are always pitch perfect.&nbsp;</p>"},
+ #uuid "f312407e-bfc5-4ce1-a0c0-715a59535224"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.3645833333333333,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "7480fec2-2967-441c-bd9f-478e05e7521e"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.09431298306989128,
+   :x-start 0.1273204329138277,
+   :x-end 0.22662056312216103,
+   :y-end 0.13505372381063202},
+  :text-color {:r 84, :g 84, :b 101, :a 1},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>Weekly Release</p>"},
+ #uuid "8a0d5fc5-7685-47e6-8adf-7f7c40f07a13"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.31847246488937264,
+   :x-start 0.36606340767218637,
+   :x-end 0.6592190832384426,
+   :y-end 0.35946395965042965},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>Image Placeholder</p>",
+  :text-align :center},
+ #uuid "5ecf0a06-bd36-4c06-90cb-fe4d1c4edb3c"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.49999999999999994,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "fb3b6c5c-ff57-450d-99e2-59621e6925f6"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.5777296576605282,
+   :x-start 0.05204843314600678,
+   :x-end 0.6613898002317815,
+   :y-end 0.6994457825836691},
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">📊 Invalid values in chart editor won't appear as NaN.&nbsp;</span></p><p>If you update the chart editor with a value that can't be parsed, the cell will highlight the original value in red instead of displaying NaN.&nbsp;</p>"},
+ #uuid "528f4d53-fccd-4158-b3e2-644dfc1e7a26"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "210c226e-f543-4201-aa00-31ffe2103d2a"
+   #uuid "0284eab3-44e7-427a-99f4-b35d35d85d40"
+   #uuid "a80d0177-eabb-41da-8f25-d975eaeb6f6d"
+   #uuid "3107f444-319f-4b8e-96e1-c6b7d22b94d7"
+   #uuid "d31ce749-f1df-49ee-9a1a-8f4955c5db63"],
+  :canvas-type :absolute,
+  :background-color {:r 220, :g 236, :b 255, :a 1}},
+ #uuid "f46489c7-90cb-4710-9aa4-f6b6e316c731"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "aa06ad39-13ed-48ab-b8bd-3095e2fc7722"
+   #uuid "5ad27453-78e6-46fb-a273-3d98e7cc4fb9"
+   #uuid "06aeb394-17c9-4142-a4c5-6a814df75cb9"
+   #uuid "e248618c-ecbb-4b88-b4f5-8f301716f50b"
+   #uuid "15aefe55-f89b-4823-92c8-f22342095585"
+   #uuid "e899bc39-c91d-4ecc-b00c-00e30130e783"
+   #uuid "4d10f326-2be3-4635-9054-96c5f06eecaa"],
+  :canvas-type :absolute,
+  :blocks-by-slot {},
+  :background-color {:r 220, :g 236, :b 255, :a 1},
+  :background-image #uuid "4d10f326-2be3-4635-9054-96c5f06eecaa"},
+ #uuid "991a6b0f-57c8-4f3b-bc13-4faeb2fea163"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.31816246588905006,
+   :x-end 0.6827457992223833,
+   :y-start 0.10878606164527965,
+   :y-end 0.8912462785161435},
+  :original-aspect-ratio? true,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/b03e043b-aba6-4345-8713-cf5310f1ed62?pitch-bytes=342561&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :regular, :shadow-opacity 0.2},
+  :created-at 1585623170069},
+ #uuid "bb37abb0-0bed-4af2-8ef1-0f5e258114e1"
+ {:fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0,
+   :x-end 1,
+   :y-start 0.6388888888888888,
+   :y-end 1.0046296296296295},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.11}},
+ #uuid "7279cf8c-e811-406e-9c09-c9592d084ba1"
+ {:entity-type :block,
+  :rotation -20,
+  :coords
+  {:x-start 0.7406416699421641,
+   :x-end 0.8865805210848448,
+   :y-start 0.4861549403859472,
+   :y-end 0.745601786861824},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/06c74f3b-d665-40a4-9060-b34dd0c9d446?pitch-bytes=96687&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606186245877},
+ #uuid "3fab076b-0f85-49cc-addb-3159ddd9d856"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.5521429124006312,
+   :x-end 0.9479762457339644,
+   :y-start 0.4975438184436831,
+   :y-end 0.4993956702955349},
+  :entity-type :block,
+  :arrowhead-type :triangle,
+  :fill-color {:r 43, :g 42, :b 53, :a 1},
+  :opacity 0.2},
+ #uuid "25aae660-fa4d-4b6d-ae1c-78dd2ad3b662"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.05246785333258465,
+   :x-end 0.10437920480641684,
+   :y-start 0.09426939265018615,
+   :y-end 0.12618166686878293},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 2.891891891891892,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/c17e1601-766c-4b81-9e63-b96eaa9bf7f4?pitch-bytes=1326&pitch-content-type=image%2Fsvg%2Bxml",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603096079472},
+ #uuid "5a7a888b-385c-4752-8bc2-90a15f10315f"
+ {:entity-type :block,
+  :text-align :center,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.7558342750204368,
+   :x-start 0.18688745805001,
+   :x-end 0.4472422909793853,
+   :y-end 0.7968257697814938},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://pitch.canny.io/feature-requests\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-style: normal; font-weight: 600;\">Suggest a new feature →</a></p>"},
+ #uuid "0a4c00f2-fb01-4690-8ccf-2a01da0c46bc"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 700,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09837193864054805,
+   :x-start 0.05186420363981342,
+   :x-end 0.14766650978685775,
+   :y-end 0.12332328374993451},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">Did You Know?</span></p>",
+  :font-family "Inter"},
+ #uuid "455f8909-e548-418a-94da-337850491584"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.5521457253276095,
+   :x-end 0.9478898315357769,
+   :y-start 0.5451272657641135,
+   :y-end 0.6888460998190346},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 4.895287958115183,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/0cd23714-c108-474c-b6c5-3fc9ee561cfe?pitch-bytes=62499&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606774819017},
+ #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b"
+ {:bullets {:color {:r 51, :g 74, :b 192, :a 1}},
+  :entity-type :style,
+  :name "Pitch Weekly Release",
+  :accent-color {:r 88, :g 110, :b 224, :a 1},
+  :background-color "white",
+  :text-color {:r 43, :g 42, :b 53, :a 1},
+  :link {:color {:r 51, :g 74, :b 192, :a 1}},
+  :id #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :blocks
+  {:headline-big
+   {:font-family "Lato",
+    :color {:r 43, :g 42, :b 53, :a 1},
+    :font-size 2.4,
+    :font-weight 700,
+    :font-style "normal",
+    :letter-spacing -0.03},
+   :headline-medium
+   {:font-family "Lato",
+    :color {:r 43, :g 42, :b 53, :a 1},
+    :font-size 2,
+    :font-weight 700,
+    :font-style "normal",
+    :letter-spacing -0.03},
+   :headline-small
+   {:font-family "Lato",
+    :color {:r 43, :g 42, :b 53, :a 1},
+    :font-size 1.2,
+    :font-weight 700,
+    :font-style "normal",
+    :letter-spacing -0.02},
+   :paragraph
+   {:font-family "Lato",
+    :font-size 0.7,
+    :color {:r 84, :g 84, :b 101, :a 1},
+    :font-weight 400,
+    :font-style "normal",
+    :line-height 1.6,
+    :letter-spacing -0.01},
+   :paragraph-small
+   {:font-family "Lato",
+    :font-size 0.6,
+    :color {:r 43, :g 42, :b 53, :a 1},
+    :font-weight 400,
+    :font-style "normal"},
+   :shape
+   {:color {:r 51, :g 74, :b 192, :a 1},
+    :stroke-color {:r 43, :g 42, :b 53, :a 1},
+    :text-color "white"},
+   :table
+   {:color {:r 43, :g 42, :b 53, :a 1},
+    :font-size 1,
+    :background-color "white",
+    :header-background-color {:r 51, :g 74, :b 192, :a 1},
+    :alt-row-background-color {:r 246, :g 246, :b 249, :a 1},
+    :border-color {:r 43, :g 42, :b 53, :a 0.15},
+    :header-text-color "white",
+    :alt-row-text-color {:r 43, :g 42, :b 53, :a 1},
+    :font-family "Lato"},
+   :chart
+   {:font-family "Lato",
+    :font-size 0.8,
+    :color {:r 51, :g 74, :b 192, :a 1},
+    :text-color {:r 43, :g 42, :b 53, :a 1},
+    :axis-color {:r 43, :g 42, :b 53, :a 0.15},
+    :stroke-color {:r 88, :g 110, :b 224, :a 1}}},
+  :text-size 1,
+  :new? :false,
+  :font-family "Lato",
+  :fonts #{}},
+ #uuid "7de29c5c-87b4-4f57-94b0-3528cf65949e"
+ {:block-type :shape,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.7132812499999999,
+   :x-end 0.9997891865079365,
+   :y-start -1.0842021724855044e-17,
+   :y-end 1},
+  :entity-type :block,
+  :fill-color {:r 246, :g 246, :b 249, :a 1},
+  :edit-mode {:type :locked-position}},
+ #uuid "df2211ff-1462-4a83-8c61-c6cebb494a11"
+ {:fill-color {:r 71, :g 202, :b 210, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.052327465370676174,
+   :x-end 0.14707704774475672,
+   :y-start 0.09301935046527406,
+   :y-end 0.1300563875023106},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "58c2a047-6bb7-407c-8b38-22dfb431fb60"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.49989167359955633,
+   :x-end 1.002495840266223,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "7390cd2e-3305-4c60-aaa9-41f87617b55c"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.09431298306989128,
+   :x-start 0.1273204329138277,
+   :x-end 0.22658452765450804,
+   :y-end 0.1353044778309483},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>Weekly Release</p>"},
+ #uuid "4f80a359-5be0-4980-a5a0-0f190ebf40dd"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.3305966454824868,
+   :x-start 0.05218472684414874,
+   :x-end 0.31258511746914874,
+   :y-end 0.615781830667672},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>A slide where visuals mean more than words, puns, etc.</p><p><br></p><p><span style=\"font-style: normal; font-family: Lato; font-weight: 700; color: rgb(43, 42, 53);\">What we did:</span></p><ul data-checked=\"true\"><li>A small update</li><li>Additional functionality</li><li>An improvement</li></ul>",
+  :auto-vertical-align-default :top},
+ #uuid "120ddac4-2a22-4afc-b531-e8aa436b679a"
+ {:fill-color {:r 108, :g 225, :b 148, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05219530921553321,
+   :x-end 0.1368825635532277,
+   :y-start 0.09210977278434193,
+   :y-end 0.12914680982137855},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "8b0e47fe-d73e-436b-a989-1fcf504b6493"
+ {:fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.5256239600665558,
+   :x-end 0.8381239600665558,
+   :y-start 0.1522873174339065,
+   :y-end 0.8520155974610215},
+  :border? false,
+  :border-width 2,
+  :block-type :shape,
+  :border-color {:r 255, :g 255, :b 255, :a 1},
+  :corner-roundness 0.04,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.2},
+  :arrowhead-type :triangle},
+ #uuid "eeb1ffc4-0089-4f09-b46d-2a25199a0741"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "7279cf8c-e811-406e-9c09-c9592d084ba1"
+   #uuid "50bab6d6-76f4-4898-a2c2-21358fed7e5c"
+   #uuid "91601fbc-6cd6-45f6-a042-1f3d0d49380b"
+   #uuid "c3c54376-06d1-4388-8343-0eed509ed750"
+   #uuid "78d38e39-3ace-478f-b973-98e1e29c9bbc"
+   #uuid "bb37abb0-0bed-4af2-8ef1-0f5e258114e1"
+   #uuid "afdd9eb9-1b94-442c-99ba-460e9844460e"
+   #uuid "4b527707-b930-41ae-bbe7-229300ccaf39"
+   #uuid "2a4f7007-0678-4822-bee5-e3cbb82ebb92"
+   #uuid "bbc9fdad-512b-4b83-8bed-52403c8d0e27"
+   #uuid "d076fbd1-ccfa-4e4e-aa0d-ea70e0ca8d5d"
+   #uuid "d1d757de-99ed-4db2-8077-7bc50fd8b2ca"],
+  :canvas-type :absolute,
+  :background-color {:r 220, :g 236, :b 255, :a 1}},
+ #uuid "0b7d5a9d-db77-45b3-9635-acfcfb0cc8b5"
+ {:block-type :text,
+  :text-type :headline-small,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.44793505507314196,
+   :y-end 0.2565277263399585},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Add multiple data series to charts</p>"},
+ #uuid "7b1ca79b-9865-40c0-8b7f-70ae99f0f3ed"
+ {:entity-type :block,
+  :font-weight 600,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.09259259259259259,
+   :x-start 0.19467509528892515,
+   :x-end 0.7050620460131898,
+   :y-end 0.1335840873536496},
+  :text-color {:r 43, :g 42, :b 53, :a 1},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>Delight with data</p>"},
+ #uuid "7b7cad0e-f9c9-42bd-9825-8aff3222d097"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.3872505989562494,
+   :x-end 0.820228765410082,
+   :y-start 0.05224689020312872,
+   :y-end 0.8651818755270576},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 0.9468641114982579,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/3d527d1c-c881-4bfd-bba5-029b0d7a758e?pitch-bytes=529174&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185864936},
+ #uuid "9d637a60-7541-4098-9fac-7462ae199d7c"
+ {:font-style "normal",
+  :entity-type :block,
+  :text-align :center,
+  :font-size 3,
+  :font-weight 700,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.4331198210092788,
+   :x-start 0.07514709154898218,
+   :x-end 0.1318828585342127,
+   :y-end 0.5667877404623426},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :text-align-vertical :center,
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>⌘</p>",
+  :font-family "Lato"},
+ #uuid "5ebcaf83-f16a-43f6-b387-f621db53e8de"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "988a3cf0-fa39-48b5-8184-4b8db27eb065"
+   #uuid "8e1ba2c7-5288-416b-85e8-c52227e16081"
+   #uuid "88d9379c-d2b0-4f8f-9ca4-ef5ab2d961a7"
+   #uuid "0cd790fa-c990-44d4-99bc-dcf49c788c5d"
+   #uuid "c8133324-bff9-4ea6-af2a-6a5be7b378e8"
+   #uuid "d4b5fa90-c8a9-4719-ad15-e6dcc792d6f3"
+   #uuid "888ae22d-8502-4997-ae86-f26ae9734e9a"
+   #uuid "049575a4-44d9-42d7-84bb-001b70e68d5c"],
+  :canvas-type :absolute,
+  :blocks-by-slot {}},
+ #uuid "e1ec05eb-3ebc-4272-b8fe-b5be3ef7901c"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.49999999999999994,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "19d2d4ab-6a72-41be-84c8-ceb9a29423cd"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.3125183884064752,
+   :y-end 0.3093055041177363},
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>Less writing,</p><p>more visuals</p>"},
+ #uuid "26dc4857-8162-406a-a210-3cfd5dc0ffd0"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "991a6b0f-57c8-4f3b-bc13-4faeb2fea163"
+   #uuid "f9ab7151-de71-4b97-9b7a-463301dd819f"
+   #uuid "fc4e43fe-1103-458e-832c-4be17267b53f"
+   #uuid "fbbcd5a7-537e-48df-a4c8-d2f809ccc45c"],
+  :canvas-type :absolute,
+  :background-color {:r 246, :g 246, :b 249, :a 1},
+  :blocks-by-slot {}},
+ #uuid "65344766-4e02-45d8-89e3-d48e80bec394"
+ {:block-type :image,
+  :coords
+  {:x-start 0.5543244997424294,
+   :x-end 0.8173598457927892,
+   :y-start 0.23123378107695952,
+   :y-end 0.5182547257326788},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/0e38b6ec-919f-4082-acd3-29c41c8077cf?pitch-bytes=837314&pitch-content-type=image%2Fpng",
+  :created-at 1585633512275,
+  :locked-aspect-ratio? true,
+  :original-aspect-ratio? true},
+ #uuid "21109c8e-1b03-4b9b-ab2c-ca1835880f20"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :show-scale-labels? false,
+  :coords
+  {:x-start 0.5520244389570659,
+   :x-end 0.9478577722903992,
+   :y-start 0.09253079702824538,
+   :y-end 0.4999646887631235},
+  :content
+  [["Chocolate Bars" "3" "7"]
+   ["Granola Bars" "8" "5"]
+   ["Ice Cream Bars" "6" "3"]
+   ["Crowbars" "2" "5"]],
+  :background-color {:r 255, :g 255, :b 255, :a 1},
+  :bar-width 38,
+  :color-range
+  [{:r 51, :g 74, :b 192, :a 1}
+   {:r 254, :g 138, :b 167, :a 1}
+   {:r 108, :g 126, :b 216, :a 1}
+   {:r 141, :g 154, :b 225, :a 1}
+   {:r 173, :g 183, :b 233, :a 1}
+   {:r 205, :g 211, :b 242, :a 1}],
+  :column-labels ["Values" "Values"],
+  :show-value-labels? false,
+  :category-labels/font-size 0.6,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "91601fbc-6cd6-45f6-a042-1f3d0d49380b"
+ {:entity-type :block,
+  :rotation -300,
+  :coords
+  {:x-start 0.7237579557506819,
+   :x-end 0.8906554899519417,
+   :y-start -0.07952380722729908,
+   :y-end 0.20804176304102426},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.0317880794701986,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/5776aa36-0980-4293-92fa-a81abab37296?pitch-bytes=342571&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606185641018},
+ #uuid "a27269bb-a256-4f03-b4b5-e6f3aa3ab665"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.3125183884064752,
+   :y-end 0.3093055041177363},
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>Less writing,</p><p>more visuals</p>"},
+ #uuid "9b0a476b-aba4-4d62-87a4-31df65b43821"
+ {:entity-type :block,
+  :text-align :right,
+  :auto-resize? true,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09259259259259259,
+   :x-start 0.7530504620817174,
+   :x-end 0.8295544630093911,
+   :y-end 0.1335840873536496},
+  :text-color {:r 84, :g 84, :b 101, :a 1},
+  :auto-vertical-align-default :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>December 1</p>"},
+ #uuid "4cb8f8b3-fe8e-467c-962c-346f66588122"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.5521457253276095,
+   :x-end 0.9478898315357769,
+   :y-start 0.5451272657641135,
+   :y-end 0.6888460998190346},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 4.895287958115183,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/0cd23714-c108-474c-b6c5-3fc9ee561cfe?pitch-bytes=62499&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606774819017},
+ #uuid "28f7fda8-c8e9-4620-8e2b-3189910dfc80"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :show-scale-labels? false,
+  :coords
+  {:x-start 0.5520244389570659,
+   :x-end 0.9478577722903992,
+   :y-start 0.09253079702824538,
+   :y-end 0.4002280408645084},
+  :content
+  [["Chocolate Bars" "3" "7"]
+   ["Granola Bars" "8" "5"]
+   ["Ice Cream Bars" "6" "3"]
+   ["Crowbars" "2" "5"]],
+  :background-color {:r 255, :g 255, :b 255, :a 1},
+  :bar-width 33,
+  :color-range
+  [{:r 51, :g 74, :b 192, :a 1}
+   {:r 254, :g 138, :b 167, :a 1}
+   {:r 108, :g 126, :b 216, :a 1}
+   {:r 141, :g 154, :b 225, :a 1}
+   {:r 173, :g 183, :b 233, :a 1}
+   {:r 205, :g 211, :b 242, :a 1}],
+  :column-labels ["Values" "Values"],
+  :show-value-labels? false,
+  :category-labels/font-size 0.6,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "626dec59-64f4-4760-a6cf-f9d3dd96d2ee"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 900,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09835089526782724,
+   :x-start 0.051989254204414366,
+   :x-end 0.12333973151394637,
+   :y-end 0.12330224037721367},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">Blog post</span></p>",
+  :font-family "Lato"},
+ #uuid "e2350ad8-b9e1-4e73-8812-4f1eaedee183"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.5521457253276095,
+   :x-end 0.9478898315357769,
+   :y-start 0.7637806861572312,
+   :y-end 0.9074995202121522},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 4.895287958115183,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/0cd23714-c108-474c-b6c5-3fc9ee561cfe?pitch-bytes=62499&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606774819017},
+ #uuid "9ce7be3c-a7d5-42c3-ac42-f4a784d02824"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.37270281063477934,
+   :x-start 0.05204843314600678,
+   :x-end 0.6613808992714951,
+   :y-end 0.53499098190847},
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">👋 Joining a workspace you were once a guest of will be smoother.&nbsp;</span></p><p>Before, if a presentation was shared with you as view-only prior to officially joining the workspace it lived in, Pitch wouldn't update your permissions after you became a member. With this fix, you should no longer run into this issue.&nbsp;</p>"},
+ #uuid "465e3d71-64cc-4108-b026-ce6a234ab561"
+ {:block-type :text,
+  :text-type :headline-small,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.44793689207136705,
+   :y-end 0.25721711510213885},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Add multiple data series to charts</p>"},
+ #uuid "e248618c-ecbb-4b88-b4f5-8f301716f50b"
+ {:fill-color {:r 108, :g 225, :b 148, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05219530921553321,
+   :x-end 0.1368825635532277,
+   :y-start 0.09210977278434193,
+   :y-end 0.12914680982137855},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "e1a9c7a9-68fd-49e5-8fc0-f0059eaa6709"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.27799141962434926,
+   :x-start 0.5518554145868002,
+   :x-end 0.947643001008804,
+   :y-end 0.7698893691697077},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>A brief description, just one or two sentences, that picks up on the title and goes a bit into important details, and/or provides a bit of background&nbsp;(feel&nbsp;free to choose between full sentences and bullet lists)</p><p><br></p><p><span style=\"font-style: normal; font-family: Lato; color: rgb(43, 42, 53); font-weight: 700;\">Mac Shortcut</span></p><p><br></p><p><br></p><p><span style=\"font-weight: 700; color: rgb(43, 42, 53); font-family: Lato; font-style: normal;\">Windows Shortcut</span></p><p><br></p><p><br></p><p>Try it yourself!</p>"},
+ #uuid "bbc9fdad-512b-4b83-8bed-52403c8d0e27"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.09431298306989128,
+   :x-start 0.1273204329138277,
+   :x-end 0.22662056312216103,
+   :y-end 0.13505372381063202},
+  :text-color {:r 84, :g 84, :b 101, :a 1},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>Weekly Release</p>"},
+ #uuid "f9ab7151-de71-4b97-9b7a-463301dd819f"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.042306033154618825,
+   :x-start 0.13631944549528802,
+   :x-end 0.8654727064736529,
+   :y-end 0.06903961642459787},
+  :text-type :paragraph-small,
+  :block-type :text,
+  :body
+  "<p>Use this slide to preview how the What's New Modal image will look</p>",
+  :text-align :center},
+ #uuid "04c3c943-5c00-4be5-9835-f4b59051590d"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.3645833333333333,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "0cd790fa-c990-44d4-99bc-dcf49c788c5d"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.3733967891512647,
+   :x-start 0.05204843314600678,
+   :x-end 0.661388959935353,
+   :y-end 0.5321058628257739},
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">👋 Joining a workspace you were once a guest of will be smoother.&nbsp;</span></p><p>Before, if a presentation was shared with you as view-only prior to officially joining the workspace it lived in, Pitch wouldn't update your permissions after you became a member. With this fix, you should no longer run into this issue.&nbsp;</p>"},
+ #uuid "fc4e43fe-1103-458e-832c-4be17267b53f"
+ {:block-type :image,
+  :coords
+  {:x-start 0.31996672212978367,
+   :x-end 0.6814250554631169,
+   :y-start 0.3043481851235593,
+   :y-end 0.6726962469957483},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/7a8425a4-bdc4-4be1-a684-c437585d5c11?pitch-bytes=689267&pitch-content-type=image%2Fpng",
+  :created-at 1585623118219,
+  :locked-aspect-ratio? false,
+  :original-aspect-ratio? false},
+ #uuid "bb4e9200-95ae-4e60-81e9-fb65bb015ea7"
+ {:entity-type :block,
+  :rotation -20,
+  :coords
+  {:x-start 0.7406416699421641,
+   :x-end 0.8865805210848448,
+   :y-start 0.4861549403859472,
+   :y-end 0.745601786861824},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/06c74f3b-d665-40a4-9060-b34dd0c9d446?pitch-bytes=96687&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606186245877},
+ #uuid "b73806e6-2560-4914-a9e4-162144b64c88"
+ {:entity-type :block,
+  :text-align :left,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.8994503942078749,
+   :x-start 0.0518338083988931,
+   :x-end 0.31221587519982336,
+   :y-end 0.939127662626502},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://help.pitch.com/en/articles/4156757-how-to-add-and-edit-charts\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-weight: 700; font-style: normal; font-family: Lato;\">Learn more in the help center →</a></p>"},
+ #uuid "ec1eb622-3975-4e77-8b69-12e723ebf391"
+ {:entity-type :block,
+  :rotation -10,
+  :coords
+  {:x-start 0.8723080544564752,
+   :x-end 0.9692468854955738,
+   :y-start 0.6394074926726208,
+   :y-end 0.7856621201774774},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.1783264746227708,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/7bd92af7-e3f4-435d-a3c6-6abb155857fb?pitch-bytes=80126&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.2},
+  :created-at 1604355812086},
+ #uuid "d2e0ab36-3b78-4a08-be05-5a5b056686bc"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :coords {:y-start 0.25, :x-start 0.25, :y-end 0.75, :x-end 0.75},
+  :content
+  [["Chocolate Bars" "3" "3" "3"]
+   ["Granola Bars" "8" "8" "8"]
+   ["Ice Cream Bars" "6" "6" "6"]
+   ["Crowbars" "2" "2" "2"]],
+  :column-labels ["Values" "Values" "Values"],
+  :show-value-labels? false,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "e899bc39-c91d-4ecc-b00c-00e30130e783"
+ {:entity-type :block,
+  :text-align :left,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.8670112630951067,
+   :x-start 0.05208333333333332,
+   :x-end 0.3124837239583333,
+   :y-end 0.9077520038358474},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://calendly.com/pitch-preview/feedback?month=2020-03\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-family: Lato; font-style: normal; font-weight: 700;\">Learn more in the help center →</a></p>"},
+ #uuid "aa4d5632-0d3f-433b-af79-548609df1f1f"
+ {:block-type :image,
+  :coords
+  {:x-start 0.05211799778147533,
+   :x-end 0.10420133111480867,
+   :y-start 0.09413323473223642,
+   :y-end 0.12615123403995093},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/7beae9f2-e237-4f35-9f61-61da55207371",
+  :locked-aspect-ratio? true},
+ #uuid "96ff490c-ce43-40a5-ab16-118d5be74802"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.9,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.5883096330386699,
+   :x-start 0.5513069674176031,
+   :x-end 0.8116774682451809,
+   :y-end 0.62751888808755},
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>Browse the help center</p>"},
+ #uuid "108a451f-b3b7-4f68-baa4-e520676a9ee6"
+ {:block-type :image,
+  :coords
+  {:x-start 0.3448722615085968,
+   :x-end 0.9483639832398676,
+   :y-start 0.09444444444444447,
+   :y-end 0.5552808095370487},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/64c726ef-0bc9-4ba6-9092-58328663bab4",
+  :auto-align-default :left,
+  :auto-vertical-align-default :top},
+ #uuid "847fee86-2807-4ac9-a294-6d5f0236d84a"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.27799141962434926,
+   :x-start 0.05218472684414874,
+   :x-end 0.44793667996914877,
+   :y-end 0.6446580862910158},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>Make your charts pop with more data. Now you can add up to eight columns of data to bar and line charts. </p><p><br></p><p>To add a new data series, add a bar or line chart and click on the plus sign on the right-hand side of the chart editor.  Each column can be customized with a different color. Just click on the color at the top of each column header to open the color picker. Prefer presets?  If you click on the chart, you can choose from a predefined color palette. </p>"},
+ #uuid "ee494b02-0a9d-4ac7-906b-5e3e6a43b808"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.46115376931052476,
+   :x-start 0.35933478197386837,
+   :x-end 0.6409891340819984,
+   :y-end 0.5008310377291522},
+  :auto-resize? true,
+  :entity-type :block,
+  :body "<p>Appendix below —&nbsp;will remove before release</p>",
+  :auto-align-default :center},
+ #uuid "c520437d-fa55-41dc-addf-354b5273c35d"
+ {:entity-type :block,
+  :font-size 1.2,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.46931300412912896,
+   :x-start 0.1699433236272879,
+   :x-end 0.18419775433294994,
+   :y-end 0.5388203249755105},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p><span style=\"font-style: normal;\">+</span></p>"},
+ #uuid "158eca79-6aa6-4b64-8ce7-1c9a78870e94"
+ {:font-style "normal",
+  :entity-type :block,
+  :text-align :center,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.6116025759536575,
+   :x-start 0.34327422421175857,
+   :x-end 0.44756652731347735,
+   :y-end 0.6525940707147145},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :text-align-vertical :top,
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>M</p>"},
+ #uuid "b383be76-636b-46d9-8693-275dd1747da8"
+ {:block-type :image,
+  :coords
+  {:x-start 0.42030306179416416,
+   :x-end 0.9422779007934069,
+   :y-start 0.3049624387234096,
+   :y-end 0.7035511497402619},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/64c726ef-0bc9-4ba6-9092-58328663bab4",
+  :auto-align-default :left,
+  :auto-vertical-align-default :center},
+ #uuid "c59ee0d8-bb29-47b3-a4d1-e674c8a1744c"
+ {:block-type :text,
+  :text-type :headline-big,
+  :coords
+  {:y-start 0.7987555565013613,
+   :x-start 0.05211799778147532,
+   :x-end 0.9478780889273086,
+   :y-end 0.9052370379828428},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Charts and recreation</p>"},
+ #uuid "c74acfc5-542c-4da5-baa9-2e749314a90d"
+ {:block-type :image,
+  :coords
+  {:x-start 0.08428073572943265,
+   :x-end 0.9157192642705674,
+   :y-start 0.1848308216464966,
+   :y-end 0.8151691783535033},
+  :entity-type :block,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/64c726ef-0bc9-4ba6-9092-58328663bab4",
+  :auto-align-default :left,
+  :auto-vertical-align-default :center},
+ #uuid "2a4f7007-0678-4822-bee5-e3cbb82ebb92"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.1527204360800155,
+   :x-start 0.05211799778147531,
+   :x-end 0.1675232712189753,
+   :y-end 0.19346117682075625},
+  :text-color {:r 84, :g 84, :b 101, :a 1},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>December 1, 2020</p>"},
+ #uuid "1a16819f-a2cc-4530-bbd5-294b0ea676c8"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :coords {:y-start 0.25, :x-start 0.25, :y-end 0.75, :x-end 0.75},
+  :content
+  [["Chocolate Bars" "3" "3" ""]
+   ["Granola Bars" "8" "8" "3"]
+   ["Ice Cream Bars" "6" "6" "8"]
+   ["Crowbars" "2" "2" "6"]
+   [nil nil nil "2"]],
+  :column-labels ["Values" "Values" "Values"],
+  :show-value-labels? false,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "15aefe55-f89b-4823-92c8-f22342095585"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 700,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09715994482915255,
+   :x-start 0.05196665023079728,
+   :x-end 0.13657765283496395,
+   :y-end 0.12308587075507847},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">New Feature</span></p>",
+  :font-family "Inter"},
+ #uuid "ff60610f-2e48-4532-a110-49c1ffefae36"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.1527204360800155,
+   :x-start 0.05211799778147531,
+   :x-end 0.16746923267996744,
+   :y-end 0.19371193084107252},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p>December 1, 2020</p>"},
+ #uuid "38895bf7-3461-49c2-bd56-f8d694843003"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.5521457253276095,
+   :x-end 0.9478898315357769,
+   :y-start 0.7637806861572312,
+   :y-end 0.9074995202121522},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 4.895287958115183,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/0cd23714-c108-474c-b6c5-3fc9ee561cfe?pitch-bytes=62499&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606774819017},
+ #uuid "bb1cc78c-881a-43ac-bc63-56bb55d6976a"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.27799141962434926,
+   :x-start 0.05218472684414874,
+   :x-end 0.44793667996914877,
+   :y-end 0.6446580862910158},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p>Make your charts pop with more data. Now you can add up to eight columns of data to bar and line charts. </p><p><br></p><p>To add a new data series, add a bar or line chart and click on the plus sign on the right-hand side of the chart editor.  Each column can be customized with a different color. Just click on the color at the top of each column header to open the color picker. Prefer presets?  If you click on the chart, you can choose from a predefined color palette. </p>"},
+ #uuid "4d10f326-2be3-4635-9054-96c5f06eecaa"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.37191831697311134,
+   :x-end 0.7719183169731114,
+   :y-start 0,
+   :y-end 0.39703703703703697},
+  :original-aspect-ratio? true,
+  :blur 0,
+  :image-aspect-ratio 1.791044776119403,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/6f2f6728-87c7-4e2d-9696-f141360288df?pitch-bytes=696148&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1603061115855},
+ #uuid "1b861c76-384a-45a6-b574-567b325f5849"
+ {:entity-type :block,
+  :text-align :left,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.8670112630951067,
+   :x-start 0.05208333333333332,
+   :x-end 0.3124837239583333,
+   :y-end 0.9077520038358474},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://calendly.com/pitch-preview/feedback?month=2020-03\" rel=\"noopener noreferrer\" target=\"_blank\" ondragstart=\"event.preventDefault();\" style=\"font-family: Lato; font-style: normal; font-weight: 700;\">Learn more in the help center →</a></p>"},
+ #uuid "ff002b9c-e6c4-4ecb-986e-59ee4e5583f1"
+ {:font-family "FF Mark Pro",
+  :type "custom",
+  :styles
+  [{:name "Extra-Light",
+    :style "normal",
+    :weight 300,
+    :sources
+    [{:url
+      "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3-eu-west-1.amazonaws.com/fonts/42ef66bf-3ddb-4df4-b0d9-f98730e44bdd.woff",
+      :format "woff"}]}
+   {:name "Light",
+    :style "normal",
+    :weight 300,
+    :sources
+    [{:url
+      "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3-eu-west-1.amazonaws.com/fonts/7a7aefe8-e963-4277-a738-c51d4b7f3aa5.woff",
+      :format "woff"}]}
+   {:name "Regular",
+    :style "normal",
+    :weight 400,
+    :sources
+    [{:url
+      "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3-eu-west-1.amazonaws.com/fonts/8d7e27bc-90a7-43c5-a5e8-25516bc28894.woff",
+      :format "woff"}]}
+   {:name "Book",
+    :style "normal",
+    :weight 400,
+    :family "font-ab0f4dd3-1802-4b49-bff2-6439e29efb83",
+    :sources
+    [{:url
+      "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3-eu-west-1.amazonaws.com/fonts/4ee511d9-b173-48af-9e8c-1fd44e08dc8e.woff",
+      :format "woff"}]}
+   {:name "Bold",
+    :style "normal",
+    :weight 700,
+    :sources
+    [{:url
+      "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3-eu-west-1.amazonaws.com/fonts/c64471d5-21c6-434b-afa8-a5f357806164.woff",
+      :format "woff"}]}
+   {:name "Heavy",
+    :style "normal",
+    :weight 800,
+    :sources
+    [{:url
+      "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3-eu-west-1.amazonaws.com/fonts/a2ae9820-555c-4023-b43e-9b2d0d2254db.woff",
+      :format "woff"}]}
+   {:name "Ultra-Bold",
+    :style "normal",
+    :weight 900,
+    :sources
+    [{:url
+      "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3-eu-west-1.amazonaws.com/fonts/76d71f6f-81f0-46f9-86b8-2c9e07338bee.woff",
+      :format "woff"}]}],
+  :entity-type :font},
+ #uuid "f82ceccc-99c4-4dd0-a629-cd5cc695d781"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :show-scale-labels? false,
+  :coords
+  {:x-start 0.5520244389570659,
+   :x-end 0.9478577722903992,
+   :y-start 0.09253079702824538,
+   :y-end 0.4999646887631235},
+  :content
+  [["Chocolate Bars" "3" "7"]
+   ["Granola Bars" "8" "5"]
+   ["Ice Cream Bars" "6" "3"]
+   ["Crowbars" "2" "5"]],
+  :background-color {:r 255, :g 255, :b 255, :a 1},
+  :bar-width 38,
+  :color-range
+  [{:r 51, :g 74, :b 192, :a 1}
+   {:r 254, :g 138, :b 167, :a 1}
+   {:r 108, :g 126, :b 216, :a 1}
+   {:r 141, :g 154, :b 225, :a 1}
+   {:r 173, :g 183, :b 233, :a 1}
+   {:r 205, :g 211, :b 242, :a 1}],
+  :column-labels ["Values" "Values"],
+  :show-value-labels? false,
+  :category-labels/font-size 0.6,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "919a26f1-81a9-44a6-9367-90b8561f7316"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "04c3c943-5c00-4be5-9835-f4b59051590d"
+   #uuid "b9ef1e4c-6053-4c6d-9b1e-3673463de1ae"
+   #uuid "c2d7f043-e9b5-4819-9b0a-d69ffee2dd3d"
+   #uuid "8422c170-0bc8-4fac-abc9-9fe7fcf58f9d"
+   #uuid "5267cedd-6d1c-4237-ae9c-70ec52974d44"
+   #uuid "027d1550-5187-43ad-b9ed-60e3fa50de07"
+   #uuid "626dec59-64f4-4760-a6cf-f9d3dd96d2ee"],
+  :canvas-type :absolute,
+  :background-color {:r 255, :g 216, :b 78, :a 1}},
+ #uuid "8422c170-0bc8-4fac-abc9-9fe7fcf58f9d"
+ {:entity-type :block,
+  :text-align :left,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.8667605090747904,
+   :x-start 0.05208333333333332,
+   :x-end 0.31248514202879896,
+   :y-end 0.9077520038358474},
+  :text-color {:r 51, :g 74, :b 192, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :bottom,
+  :text-type :paragraph,
+  :block-type :text,
+  :body
+  "<p><a href=\"https://calendly.com/pitch-preview/feedback?month=2020-03\" target=\"_blank\" style=\"font-weight: 700; font-style: normal; font-family: Lato;\">Read the blog post →</a></p>"},
+ #uuid "468b5618-26b6-4f27-9a63-d49d85e1ed28"
+ {:fill-color {:r 248, :g 248, :b 248, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.05224625623960069,
+   :x-end 0.15641292290626738,
+   :y-start 0.40800517655758917,
+   :y-end 0.5931903617427744},
+  :original-aspect-ratio? false,
+  :block-type :shape,
+  :corner-roundness 0.2,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "1ec51003-427f-4429-b731-2f8b953802d4"
+ {:entity-type :block,
+  :font-weight 400,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.09283396661583324,
+   :x-start 0.11442872464982329,
+   :x-end 0.1186580613383211,
+   :y-end 0.13382546137689025},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-type :paragraph,
+  :opacity 0.3,
+  :block-type :text,
+  :body "<p><span style=\"color: rgb(255, 255, 255);\">|</span></p>"},
+ #uuid "5267cedd-6d1c-4237-ae9c-70ec52974d44"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.41677752229476184,
+   :x-end 0.9964625636730695,
+   :y-start 0.14502368748973968,
+   :y-end 0.8455321761942441},
+  :original-aspect-ratio? true,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/be7d55c9-0654-4c24-a552-c74f49ad21b8?pitch-bytes=11612570&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.11},
+  :created-at 1585880699487},
+ #uuid "f493051d-c870-4b78-ab7a-18f5a8a7d5d7"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 900,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09751177484435501,
+   :x-start 0.05198741341001666,
+   :x-end 0.14677094205585,
+   :y-end 0.12343770077028093},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">improvements</span></p>",
+  :font-family "Lato"},
+ #uuid "c1321ec4-ff8e-476f-95ff-dfda968740eb"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.20374994856218073,
+   :x-start 0.0521179977814753,
+   :x-end 0.44793689207136705,
+   :y-end 0.25721711510213885},
+  :text-type :headline-small,
+  :block-type :text,
+  :body "<p>Add emoji to workspace folders</p>"},
+ #uuid "8dd2c939-14b6-4c14-8547-315051cb487a"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 700,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09715994482915255,
+   :x-start 0.05196665023079728,
+   :x-end 0.13657765283496395,
+   :y-end 0.12308587075507847},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">New Feature</span></p>",
+  :font-family "Inter"},
+ #uuid "5d78fade-311d-4542-8bcc-3a074c937769"
+ {:fill-color {:r 71, :g 202, :b 210, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.052327465370676084,
+   :x-end 0.1470770477447567,
+   :y-start 0.09301935046527408,
+   :y-end 0.13005638750231063},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "027d1550-5187-43ad-b9ed-60e3fa50de07"
+ {:fill-color {:r 255, :g 187, :b 92, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05196617885557184,
+   :x-end 0.12279951218890514,
+   :y-start 0.09301935046527408,
+   :y-end 0.13005638750231063},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "e875355b-9387-4aa4-b3fa-0760ef9d311b"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children [#uuid "8ba9734d-6098-47e3-aad8-8491c2e46323"],
+  :canvas-type :absolute,
+  :blocks-by-slot {},
+  :background-color {:r 220, :g 236, :b 255, :a 1}},
+ #uuid "361f4dce-ec75-448f-8b16-192d1c33bac6"
+ {:entity-type :block,
+  :rotation 85,
+  :coords
+  {:x-start 0.3158676792632938,
+   :x-end 0.4618065304059745,
+   :y-start -0.14377873859035067,
+   :y-end 0.11566810788552606},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/06c74f3b-d665-40a4-9060-b34dd0c9d446?pitch-bytes=96687&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :created-at 1606186245877},
+ #uuid "0f49682e-9f07-4a54-ac00-a8fb1c75e773"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 900,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09799906525262475,
+   :x-start 0.5520890818146923,
+   :x-end 0.6479070488778098,
+   :y-end 0.12295041036201118},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">Did you know?</span></p>",
+  :font-family "Lato"},
+ #uuid "c7429448-0c02-4c1f-ab9a-0f3b0c790979"
+ {:entity-type :block,
+  :auto-resize? false,
+  :coords
+  {:y-start 0.042306033154618825,
+   :x-start 0.13631944549528802,
+   :x-end 0.8654727064736529,
+   :y-end 0.06903961642459787},
+  :text-type :paragraph-small,
+  :block-type :text,
+  :body
+  "<p>This slide will be the image shown in the Weekly Release modal – GIFs work here too!</p>",
+  :text-align :center},
+ #uuid "888ae22d-8502-4997-ae86-f26ae9734e9a"
+ {:entity-type :block,
+  :text-align :center,
+  :font-size 0.45,
+  :font-weight 900,
+  :auto-resize? false,
+  :auto-align-default :left,
+  :coords
+  {:y-start 0.09799906525262475,
+   :x-start 0.051999735794222415,
+   :x-end 0.12228504040050628,
+   :y-end 0.12295041036201118},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-align-vertical :center,
+  :text-type :paragraph,
+  :block-type :text,
+  :letter-spacing 0.04,
+  :body
+  "<p><span style=\"text-transform: uppercase;\">Bug fixes</span></p>",
+  :font-family "Lato"},
+ #uuid "ba1bf888-5a4d-4822-baca-265f222b078a"
+ {:block-type :image,
+  :coords
+  {:x-start 0.5407308679261478,
+   :x-end 0.9573975345928145,
+   :y-start 0.18126541378968503,
+   :y-end 0.8612897003713481},
+  :entity-type :block,
+  :locked-aspect-ratio? true,
+  :original-aspect-ratio? true,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/24df90ca-df2e-4659-a22e-ab2227b7ce2e"},
+ #uuid "6e8a4c79-9ada-4edc-9c62-d00266ff0f9c"
+ {:font-style "normal",
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :font-size 0.6,
+  :font-weight 900,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.604015189092929,
+   :x-end 0.6269318557595956,
+   :y-start 0.6576015283170026,
+   :y-end 0.6983422690577433},
+  :border? true,
+  :auto-vertical-align-default :top,
+  :border-width 3,
+  :block-type :shape,
+  :border-color {:r 51, :g 74, :b 192, :a 1},
+  :corner-roundness 0.2,
+  :body "<p><span style=\"color: rgb(51, 74, 192);\">K</span></p>",
+  :font-family "Lato"},
+ #uuid "7e88054f-e417-42cc-95a2-bd7fcf26d991"
+ {:edit-mode {:type :locked-position},
+  :fill-color {:r 255, :g 255, :b 255, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start -0.0026041666666666665,
+   :x-end 0.3645833333333333,
+   :y-start -0.0002033647624330318,
+   :y-end 0.9999663154002586},
+  :block-type :shape,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "6899ee1d-8616-4ed3-9b4c-74e3db7242bf"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children [#uuid "d2e0ab36-3b78-4a08-be05-5a5b056686bc"],
+  :canvas-type :absolute},
+ #uuid "9861bb15-4566-41fa-8c6e-5880b256258a"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.2462681480401858,
+   :x-end 0.927478125195648,
+   :y-start 0.1295092085218325,
+   :y-end 0.8702703986891649},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.634858812074002,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/22244a50-e73c-48cb-a387-271ac695b595?pitch-bytes=638879&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :created-at 1606775222173},
+ #uuid "617412ce-30eb-4f66-96dd-6b1419a42132"
+ {:entity-type :block,
+  :rotation -10,
+  :coords
+  {:x-start 0.8723080544564752,
+   :x-end 0.9692468854955738,
+   :y-start 0.6394074926726208,
+   :y-end 0.7856621201774774},
+  :original-aspect-ratio? true,
+  :image-aspect-ratio 1.1783264746227708,
+  :url
+  "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/7bd92af7-e3f4-435d-a3c6-6abb155857fb?pitch-bytes=80126&pitch-content-type=image%2Fpng",
+  :block-type :image,
+  :image-scale-x 1,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.2},
+  :created-at 1604355812086},
+ #uuid "6dd68bc6-e959-4b8c-bb71-a32002736d7c"
+ {:fill-color {:r 254, :g 138, :b 167, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :auto-align-default :left,
+  :coords
+  {:x-start 0.05207488259320708,
+   :x-end 0.1479082159265404,
+   :y-start 0.09283447618746789,
+   :y-end 0.1298715132245044},
+  :auto-vertical-align-default :top,
+  :block-type :shape,
+  :corner-roundness 0.3},
+ #uuid "74c3b90a-f7a2-49ae-9dc5-9d73b5d73d42"
+ {:fill-color {:r 248, :g 248, :b 248, :a 1},
+  :entity-type :block,
+  :shape-type :rectangle,
+  :coords
+  {:x-start 0.3434276206322796,
+   :x-end 0.44759428729894624,
+   :y-start 0.40800517655758917,
+   :y-end 0.5931903617427744},
+  :original-aspect-ratio? false,
+  :block-type :shape,
+  :corner-roundness 0.2,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.1},
+  :arrowhead-type :triangle},
+ #uuid "3da77216-08e4-4702-8b80-5b2012814307"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.5923533871288522,
+   :x-start 0.052048433146006774,
+   :x-end 0.6611758592934678,
+   :y-end 0.7140695120519931},
+  :auto-resize? false,
+  :entity-type :block,
+  :body
+  "<p><span style=\"font-weight: 700; color: rgb(43, 42, 53);\">⚡️ Moving presentations in large workspaces is faster.&nbsp;</span></p><p>Now, no matter how large your workspace is, dragging presentations into new folders should feel lightning-fast.&nbsp;&nbsp;</p>"},
+ #uuid "0cd58202-bf5b-4261-bde5-fdc4b3696acf"
+ {:smooth-line? true,
+  :entity-type :block,
+  :label-positioning :callout,
+  :coords {:y-start 0.25, :x-start 0.25, :y-end 0.75, :x-end 0.75},
+  :content
+  [["Chocolate Bars" "3"]
+   ["Granola Bars" "8"]
+   ["Ice Cream Bars" "6"]
+   ["Crowbars" "2"]],
+  :column-labels ["Values"],
+  :show-value-labels? true,
+  :chart-type :bar,
+  :block-type :chart,
+  :dots-size 5,
+  :pad-angle 0.15,
+  :category-labels-positioning :auto,
+  :column-format
+  [{:column-type :text}
+   {:column-type :none,
+    :num-decimals 0,
+    :format-type :with-thousand-sep,
+    :locale :en-US}],
+  :grid-dashed-line? true,
+  :corner-radius 0.2},
+ #uuid "a1d8a825-7e1a-407e-a98a-a053820e42e4"
+ {:entity-type :slide,
+  :theme #uuid "ff00fb22-e65b-4fef-bbdd-7e2f655e951b",
+  :children
+  [#uuid "9b0a476b-aba4-4d62-87a4-31df65b43821"
+   #uuid "7b1ca79b-9865-40c0-8b7f-70ae99f0f3ed"
+   #uuid "89be21f3-99c6-480b-a12d-ffda3edbe253"
+   #uuid "8a0d5fc5-7685-47e6-8adf-7f7c40f07a13"
+   #uuid "aef00da5-f7bf-48d5-bb45-243df1d63f13"],
+  :canvas-type :absolute,
+  :blocks-by-slot {}},
+ #uuid "1e954ba1-9c90-422b-b321-b88454de5fc0"
+ {:entity-type :block,
+  :font-size 1.2,
+  :auto-resize? true,
+  :coords
+  {:y-start 0.46931300412912896,
+   :x-start 0.31636595257903505,
+   :x-end 0.33062038328469706,
+   :y-end 0.5388203249755105},
+  :text-color {:r 255, :g 255, :b 255, :a 1},
+  :auto-vertical-align-default :top,
+  :text-type :paragraph,
+  :block-type :text,
+  :body "<p><span style=\"font-style: normal;\">+</span></p>"},
+ #uuid "5352416c-5ff2-4a61-8324-278bab551a81"
+ {:entity-type :block,
+  :coords
+  {:x-start 0.6288331780614206,
+   :x-end 0.8715415113947539,
+   :y-start 0.1854087082270382,
+   :y-end 0.8143795445731454},
+  :original-aspect-ratio? true,
+  :url
+  "https://pitch-assets.imgix.net/873e0b4b-6a51-48c6-b267-a75659f2aa19?pitch-bytes=1318290&pitch-content-type=image%2Fgif&pitch-gifm=true&w=2000&h=2000&fit=max&auto=format&q=100&fm=mp4",
+  :block-type :image,
+  :corner-roundness 0.06,
+  :locked-aspect-ratio? true,
+  :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.2},
+  :created-at 1597718044641},
+ #uuid "3bcf7829-9118-41e0-a5fe-8434be502cfc"
+ {:block-type :text,
+  :text-type :paragraph,
+  :coords
+  {:y-start 0.8668780912524205,
+   :x-start 0.05208333333333334,
+   :x-end 0.39912389916956226,
+   :y-end 0.9078695860134776},
+  :auto-resize? false,
+  :entity-type :block,
+  :body "<p>Learn more in the help center </p>"}}
