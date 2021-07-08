@@ -1,7 +1,7 @@
 {
   "name": "pitch",
   "description": "Next-generation presentation software",
-  "version": "1.33.1+ci1691766",
+  "version": "1.34.1+ci1716107",
   "productName": "Pitch",
   "main": "resources/public/static/app/719998b2-df4b-4b86-9793-3f821d281369/js/shell.js",
   "author": "Pitch Software GmbH",
