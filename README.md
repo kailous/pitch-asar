@@ -6,3 +6,7 @@
 有懂的小伙伴也可以一起 /app-arm64/resources/public/static/app/719998b2-df4b-4b86-9793-3f821d281369/js/l10n/base.js 汉化文件是这个。
 
 完成之后 把 app-arm64 app-x64 app 分别打包成 asar 替换即可
+
+### asar打包&拆包工具
+是用 MacOS 自带的自动化工具制作的脚本
+整合在鼠标右键可以方便的进行 asar 的打包 和 拆包 下载的汉化项目修改完成可以自行打包。
